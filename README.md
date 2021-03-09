@@ -13,3 +13,4 @@
 |0132|[分割回文串 II](./0132.Palindrome-Partitioning-II/README.md)|困难|*[Python](./0132.Palindrome-Partitioning-II/0132.Palindrome-Partitioning-II.py)*|`动态规划`|
 |0232|[用栈实现队列](./0232.Implement-Queue-using-Stacks/README.md)|简单|[Python](./0232.Implement-Queue-using-Stacks/0232.Implement-Queue-using-Stacks.py)|`栈` `设计`|
 |0503|[下一个更大元素 II](./0503.Next-Greater-Element-II/README.md)|中等|[Python](./0503.Next-Greater-Element-II/0503.Next-Greater-Element-II.py)|`栈`|
+|1047|[删除字符串中的所有相邻重复项](./1047.Remove-All-Adjacent-Duplicates-In-String/README.md)|简单|[Python](./1047.Remove-All-Adjacent-Duplicates-In-String/1047.Remove-All-Adjacent-Duplicates-In-String.py)|`栈`|

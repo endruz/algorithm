@@ -17,4 +17,5 @@
 |0331|[验证二叉树的前序序列化](./0331.Verify-Preorder-Serialization-Of-A-Binary-Tree/README.md)|中等|[Python](./0331.Verify-Preorder-Serialization-Of-A-Binary-Tree/0331.Verify-Preorder-Serialization-Of-A-Binary-Tree.py)|`栈`|
 |0503|[下一个更大元素 II](./0503.Next-Greater-Element-II/README.md)|中等|[Python](./0503.Next-Greater-Element-II/0503.Next-Greater-Element-II.py)|`栈`|
 |0705|[设计哈希集合](./0705.Design-Hashset/README.md)|简单|[Python](./0705.Design-Hashset/0705.Design-Hashset.py)|`设计` `哈希表`|
+|0706|[设计哈希映射](./0706.Design-Hashmap/README.md)|简单|[Python](./0706.Design-Hashmap/0706.Design-Hashmap.py)|`设计` `哈希表`|
 |1047|[删除字符串中的所有相邻重复项](./1047.Remove-All-Adjacent-Duplicates-In-String/README.md)|简单|[Python](./1047.Remove-All-Adjacent-Duplicates-In-String/1047.Remove-All-Adjacent-Duplicates-In-String.py)|`栈`|

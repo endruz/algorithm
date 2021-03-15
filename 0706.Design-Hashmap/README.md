@@ -1,4 +1,4 @@
-# [706. 设计哈希映射](https://leetcode-cn.com/problems/design-hashmap)
+# [0706. 设计哈希映射](https://leetcode-cn.com/problems/design-hashmap)
 
 难度：简单
 

@@ -23,3 +23,4 @@
 |0705|[设计哈希集合](./0705.Design-Hashset/README.md)|简单|[Python](./0705.Design-Hashset/0705.Design-Hashset.py)|`设计` `哈希表`|
 |0706|[设计哈希映射](./0706.Design-Hashmap/README.md)|简单|[Python](./0706.Design-Hashmap/0706.Design-Hashmap.py)|`设计` `哈希表`|
 |1047|[删除字符串中的所有相邻重复项](./1047.Remove-All-Adjacent-Duplicates-In-String/README.md)|简单|[Python](./1047.Remove-All-Adjacent-Duplicates-In-String/1047.Remove-All-Adjacent-Duplicates-In-String.py)|`栈`|
+|1603|[设计停车系统](./1603.Design-Parking-System/README.md)|简单|[Python](./1603.Design-Parking-System/1603.Design-Parking-System.py)|`设计`|

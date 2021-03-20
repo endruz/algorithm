@@ -15,6 +15,7 @@
 |0115|[不同的子序列](./0115.Distinct-Subsequences/README.md)|困难|[Python](./0115.Distinct-Subsequences/0115.Distinct-Subsequences.py)|`字符串` `动态规划`|
 |0131|[分割回文串](./0131.Palindrome-Partitioning/README.md)|中等|[Python](./0131.Palindrome-Partitioning/0131.Palindrome-Partitioning.py)|`深度优先搜索` `动态规划` `回溯算法`|
 |0132|[分割回文串 II](./0132.Palindrome-Partitioning-II/README.md)|困难|*[Python](./0132.Palindrome-Partitioning-II/0132.Palindrome-Partitioning-II.py)*|`动态规划`|
+|0150|[逆波兰表达式求值](./0150.Evaluate-Reverse-Polish-Notation/README.md)|中等|[Python](./0150.Evaluate-Reverse-Polish-Notation/0150.Evaluate-Reverse-Polish-Notation.py)|`栈`|
 |0224|[基本计算器](./0224.Basic-Calculator/README.md)|困难|[Python](./0224.Basic-Calculator/0224.Basic-Calculator.py)|`栈` `数学`|
 |0227|[基本计算器 II](./0227.Basic-Calculator-II/README.md)|中等|[Python](./0227.Basic-Calculator-II/0227.Basic-Calculator-II.py)|`栈` `字符串`|
 |0232|[用栈实现队列](./0232.Implement-Queue-using-Stacks/README.md)|简单|[Python](./0232.Implement-Queue-using-Stacks/0232.Implement-Queue-using-Stacks.py)|`栈` `设计`|

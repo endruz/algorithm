@@ -12,6 +12,7 @@
 |0054|[螺旋矩阵](./0054.Spiral-Matrix/README.md)|中等|[Python](./0054.Spiral-Matrix/0054.Spiral-Matrix.py)|`数组`|
 |0059|[螺旋矩阵 II](./0059.Spiral-Matrix-II/README.md)|中等|[Python](./0059.Spiral-Matrix-II/0059.Spiral-Matrix-II.py)|`数组`|
 |0073|[矩阵置零](./0073.Set-Matrix-Zeroes/README.md)|中等|[Python](./0073.Set-Matrix-Zeroes/0073.Set-Matrix-Zeroes.py)|`数组`|
+|0082|[删除排序链表中的重复元素 II](./0082.Remove-Duplicates-From-Sorted-List-II/README.md)|中等|[Python](./0082.Remove-Duplicates-From-Sorted-List-II/0082.Remove-Duplicates-From-Sorted-List-II.py)|`链表`|
 |0092|[反转链表 II](./0092.Reverse-Linked-List-II/README.md)|中等|[Python](./0092.Reverse-Linked-List-II/0092.Reverse-Linked-List-II.py)|`链表`|
 |0115|[不同的子序列](./0115.Distinct-Subsequences/README.md)|困难|[Python](./0115.Distinct-Subsequences/0115.Distinct-Subsequences.py)|`字符串` `动态规划`|
 |0131|[分割回文串](./0131.Palindrome-Partitioning/README.md)|中等|[Python](./0131.Palindrome-Partitioning/0131.Palindrome-Partitioning.py)|`深度优先搜索` `动态规划` `回溯算法`|

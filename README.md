@@ -21,6 +21,7 @@
 |0132|[分割回文串 II](./0132.Palindrome-Partitioning-II/README.md)|困难|*[Python](./0132.Palindrome-Partitioning-II/0132.Palindrome-Partitioning-II.py)*|`动态规划`|
 |0150|[逆波兰表达式求值](./0150.Evaluate-Reverse-Polish-Notation/README.md)|中等|[Python](./0150.Evaluate-Reverse-Polish-Notation/0150.Evaluate-Reverse-Polish-Notation.py)|`栈`|
 |0173|[二叉搜索树迭代器](./0173.Binary-Search-Tree-Iterator/README.md)|中等|[Python](./0173.Binary-Search-Tree-Iterator/0173.Binary-Search-Tree-Iterator.py)|`栈` `树` `设计`|
+|0190|[颠倒二进制位](./0190.Reverse-Bits/README.md)|简单|[Python](./0190.Reverse-Bits/0190.Reverse-Bits.py)|`位运算`|
 |0191|[位1的个数](./0191.Number-Of-1-Bits/README.md)|简单|[Python](./0191.Number-Of-1-Bits/0191.Number-Of-1-Bits.py)|`位运算`|
 |0224|[基本计算器](./0224.Basic-Calculator/README.md)|困难|[Python](./0224.Basic-Calculator/0224.Basic-Calculator.py)|`栈` `数学`|
 |0227|[基本计算器 II](./0227.Basic-Calculator-II/README.md)|中等|[Python](./0227.Basic-Calculator-II/0227.Basic-Calculator-II.py)|`栈` `字符串`|

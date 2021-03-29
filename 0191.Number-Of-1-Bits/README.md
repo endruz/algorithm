@@ -1,6 +1,6 @@
 # [0191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits)
 
-难度：困难
+难度：简单
 
 ---
 

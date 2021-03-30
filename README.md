@@ -13,6 +13,7 @@
 |0059|[螺旋矩阵 II](./0059.Spiral-Matrix-II/README.md)|中等|[Python](./0059.Spiral-Matrix-II/0059.Spiral-Matrix-II.py)|`数组`|
 |0061|[旋转链表](./0061.Rotate-List/README.md)|中等|[Python](./0061.Rotate-List/0061.Rotate-List.py)|`链表` `双指针`|
 |0073|[矩阵置零](./0073.Set-Matrix-Zeroes/README.md)|中等|[Python](./0073.Set-Matrix-Zeroes/0073.Set-Matrix-Zeroes.py)|`数组`|
+|0074|[搜索二维矩阵](./0074.Search-A-2D-Matrix/README.md)|中等|[Python](./0074.Search-A-2D-Matrix/0074.Search-A-2D-Matrix.py)|`数组` `二分查找`|
 |0082|[删除排序链表中的重复元素 II](./0082.Remove-Duplicates-From-Sorted-List-II/README.md)|中等|[Python](./0082.Remove-Duplicates-From-Sorted-List-II/0082.Remove-Duplicates-From-Sorted-List-II.py)|`链表`|
 |0083|[删除排序链表中的重复元素](./0083.Remove-Duplicates-From-Sorted-List/README.md)|简单|[Python](./0083.Remove-Duplicates-From-Sorted-List/0083.Remove-Duplicates-From-Sorted-List.py)|`链表`|
 |0092|[反转链表 II](./0092.Reverse-Linked-List-II/README.md)|中等|[Python](./0092.Reverse-Linked-List-II/0092.Reverse-Linked-List-II.py)|`链表`|

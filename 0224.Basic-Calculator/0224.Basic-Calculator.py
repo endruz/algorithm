@@ -5,14 +5,14 @@ class Solution:
         length = len(s)
 
         def cal(s):
-            l = len(s)
+            length = len(s)
             num1 = 0
             num2 = ""
             operator = "+"
-            for i in range(l):
+            for i in range(length):
                 if s[i].isdigit():
                     num2 += s[i]
-                    if i == l - 1 or s[i+1] in ["+", "-", " "]:
+                    if i == length - 1 or s[i+1] in ["+", "-", " "]:
                         if operator == "+":
                             num1 = num1 + int(num2)
                         elif operator == "-":
@@ -24,7 +24,6 @@ class Solution:
                     else:
                         operator = s[i]
             return num1
-
 
         while index < length:
             if s[index] == '(':

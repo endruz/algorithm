@@ -8,7 +8,6 @@ class ParkingSystem:
         self.mediumCount = 0
         self.smallCount = 0
 
-
     def addCar(self, carType: int) -> bool:
         if carType == 1:
             if self.bigCount < self.maxBig:

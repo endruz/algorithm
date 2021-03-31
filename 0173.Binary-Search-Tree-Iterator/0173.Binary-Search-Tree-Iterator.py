@@ -1,9 +1,13 @@
-# Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
+class TreeNode:
+    '''
+    Definition for a binary tree node.
+    '''
+    def __init__(self, val=0, left=None, right=None):
+        self.val = val
+        self.left = left
+        self.right = right
+
+
 class BSTIterator1:
     '''
     提前保存全部节点
@@ -15,7 +19,8 @@ class BSTIterator1:
 
     def __init__(self, root: TreeNode):
         def _BST2Stack(root, stack):
-            if not root: return
+            if not root:
+                return
             _BST2Stack(root.right, stack)
             stack.append(root.val)
             _BST2Stack(root.left, stack)
@@ -30,6 +35,7 @@ class BSTIterator1:
 
     def hasNext(self) -> bool:
         return bool(len(self.stack))
+
 
 class BSTIterator2:
     '''

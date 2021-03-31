@@ -1,5 +1,8 @@
+from typing import List
+
+
 class Solution:
-    def generateMatrix(self, n: int)-> List[List[int]]:
+    def generateMatrix(self, n: int) -> List[List[int]]:
         matrix = [[0]*n for i in range(n)]
         value = 1
         left, right, top, bottom = 0, n-1, 0, n-1
@@ -17,7 +20,7 @@ class Solution:
                 matrix[j][left] = value
                 value += 1
             left += 1
-            right -=1
+            right -= 1
             top += 1
             bottom -= 1
         return matrix

@@ -9,7 +9,7 @@ class Solution(object):
                 left -= 1
                 right += 1
             return left + 1, right - 1, right - left - 1
-        left, right, lens= 0, 0, 1
+        left, right, lens = 0, 0, 1
         for i in range(len(s)):
             left1, right1, lens1 = expandAroundCenter(i, i)
             left2, right2, lens2 = expandAroundCenter(i, i + 1)

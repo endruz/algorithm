@@ -8,14 +8,12 @@ class MyQueue:
         self.instack = []
         self.outstack = []
 
-
     def push(self, x: int) -> None:
         """
         Push element x to the back of queue.
         """
         # 入队时，将数据入栈 instack
         self.instack.append(x)
-
 
     def pop(self) -> int:
         """
@@ -28,7 +26,6 @@ class MyQueue:
                 self.outstack.append(self.instack.pop())
         return self.outstack.pop()
 
-
     def peek(self) -> int:
         """
         Get the front element.
@@ -39,15 +36,12 @@ class MyQueue:
                 self.outstack.append(self.instack.pop())
         return self.outstack[-1]
 
-
     def empty(self) -> bool:
         # 两个栈 instack 和 outstack 同时为空时，队列为空
         """
         Returns whether the queue is empty.
         """
         return (not self.instack) and (not self.outstack)
-
-
 
 # Your MyQueue object will be instantiated and called as such:
 # obj = MyQueue()

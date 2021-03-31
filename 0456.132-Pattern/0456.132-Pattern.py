@@ -1,3 +1,6 @@
+from typing import List
+
+
 class Solution1:
     '''
     暴力破解
@@ -14,6 +17,7 @@ class Solution1:
                     return True
             numsi = min(numsi, nums[j])
         return False
+
 
 class Solution2:
     '''

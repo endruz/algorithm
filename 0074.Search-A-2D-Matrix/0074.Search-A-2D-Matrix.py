@@ -1,3 +1,6 @@
+from typing import List
+
+
 class Solution1:
     '''
     遍历查找
@@ -63,6 +66,7 @@ class Solution3:
                 left = mid + 1
         return False
 
+
 class Solution4:
     '''
     两次二分查找（内置函数）
@@ -71,7 +75,7 @@ class Solution4:
     '''
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
         from bisect import bisect_right, bisect_left
-        m, n = len(matrix), len(matrix[0])
+        n = len(matrix[0])
         # 定位所在行
         target_row = bisect_right([row[0] for row in matrix], target) - 1
         # 查找具体位置
@@ -84,6 +88,7 @@ class Solution4:
             return True
         return False
 
+
 class Solution5:
     '''
     全局二分查找
@@ -91,7 +96,7 @@ class Solution5:
     '''
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
         m, n = len(matrix), len(matrix[0])
-        left, right = 0, n * m -1
+        left, right = 0, n * m - 1
         while left <= right:
             mid = (right - left) // 2 + left
             curr = matrix[mid // n][mid % n]

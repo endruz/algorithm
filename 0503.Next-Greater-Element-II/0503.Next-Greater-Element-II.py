@@ -1,3 +1,6 @@
+from typing import List
+
+
 class Solution_1:
     def nextGreaterElements(self, nums: List[int]) -> List[int]:
         '''

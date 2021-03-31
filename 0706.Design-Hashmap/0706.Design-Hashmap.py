@@ -6,7 +6,6 @@ class MyHashMap:
         """
         self.hashMap = list()
 
-
     def put(self, key: int, value: int) -> None:
         """
         value will always be non-negative.
@@ -18,7 +17,6 @@ class MyHashMap:
         else:
             self.hashMap.append([key, value])
 
-
     def get(self, key: int) -> int:
         """
         Returns the value to which the specified key is mapped, or -1 if this map contains no mapping for the key
@@ -29,7 +27,6 @@ class MyHashMap:
         else:
             return -1
 
-
     def remove(self, key: int) -> None:
         """
         Removes the mapping of the specified value key if this map contains a mapping for the key
@@ -38,8 +35,6 @@ class MyHashMap:
             if self.hashMap[index][0] == key:
                 del self.hashMap[index]
                 return
-
-
 
 # Your MyHashMap object will be instantiated and called as such:
 # obj = MyHashMap()

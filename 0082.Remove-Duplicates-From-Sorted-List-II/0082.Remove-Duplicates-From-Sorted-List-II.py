@@ -1,8 +1,12 @@
-# Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
+class ListNode:
+    '''
+    Definition for singly-linked list.
+    '''
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
+
+
 class Solution:
     def deleteDuplicates(self, head: ListNode) -> ListNode:
         '''
@@ -21,4 +25,3 @@ class Solution:
             else:
                 currNode = currNode.next
         return pointNode.next
-

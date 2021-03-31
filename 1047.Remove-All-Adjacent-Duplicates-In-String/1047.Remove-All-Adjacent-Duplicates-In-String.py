@@ -7,4 +7,3 @@ class Solution:
             else:
                 stack.append(S[i])
         return "".join(stack)
-

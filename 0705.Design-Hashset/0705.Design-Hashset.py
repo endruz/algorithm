@@ -6,7 +6,6 @@ class MyHashSet:
         """
         self.hashSet = list()
 
-
     def add(self, key: int) -> None:
         if not self.contains(key):
             self.hashSet.append(key)

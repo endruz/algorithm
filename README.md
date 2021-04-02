@@ -37,3 +37,4 @@
 |1006|[笨阶乘](./1006.Clumsy-Factorial/README.md)|简单|[Python](./1006.Clumsy-Factorial/1006.Clumsy-Factorial.py)|`数学`|
 |1047|[删除字符串中的所有相邻重复项](./1047.Remove-All-Adjacent-Duplicates-In-String/README.md)|简单|[Python](./1047.Remove-All-Adjacent-Duplicates-In-String/1047.Remove-All-Adjacent-Duplicates-In-String.py)|`栈`|
 |1603|[设计停车系统](./1603.Design-Parking-System/README.md)|简单|[Python](./1603.Design-Parking-System/1603.Design-Parking-System.py)|`设计`|
+|面试题 17.21|[直方图的水量](./Interview-Question-17.21.Volume-Of-Histogram-LCCI/README.md)|困难|[Python](./Interview-Question-17.21.Volume-Of-Histogram-LCCI/Interview-Question-17.21.Volume-Of-Histogram-LCCI.py)|`栈` `数组` `双指针`|

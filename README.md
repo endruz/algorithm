@@ -34,6 +34,7 @@
 |0503|[下一个更大元素 II](./0503.Next-Greater-Element-II/README.md)|中等|[Python](./0503.Next-Greater-Element-II/0503.Next-Greater-Element-II.py)|`栈`|
 |0705|[设计哈希集合](./0705.Design-Hashset/README.md)|简单|[Python](./0705.Design-Hashset/0705.Design-Hashset.py)|`设计` `哈希表`|
 |0706|[设计哈希映射](./0706.Design-Hashmap/README.md)|简单|[Python](./0706.Design-Hashmap/0706.Design-Hashmap.py)|`设计` `哈希表`|
+|0781|[森林中的兔子](./0781.Rabbits-In-Forest/README.md)|中等|[Python](./0781.Rabbits-In-Forest/0781.Rabbits-In-Forest.py)|`哈希表` `数字`|
 |1006|[笨阶乘](./1006.Clumsy-Factorial/README.md)|简单|[Python](./1006.Clumsy-Factorial/1006.Clumsy-Factorial.py)|`数学`|
 |1047|[删除字符串中的所有相邻重复项](./1047.Remove-All-Adjacent-Duplicates-In-String/README.md)|简单|[Python](./1047.Remove-All-Adjacent-Duplicates-In-String/1047.Remove-All-Adjacent-Duplicates-In-String.py)|`栈`|
 |1143|[最长公共子序列](./1143.Longest-Common-Subsequence/README.md)|中等|[Python](./1143.Longest-Common-Subsequence/1143.Longest-Common-Subsequence.py)|`动态规划`|

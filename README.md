@@ -26,6 +26,7 @@
 |0132|[分割回文串 II](./0132.Palindrome-Partitioning-II/README.md)|困难|*[Python](./0132.Palindrome-Partitioning-II/0132.Palindrome-Partitioning-II.py)*|`动态规划`|
 |0150|[逆波兰表达式求值](./0150.Evaluate-Reverse-Polish-Notation/README.md)|中等|[Python](./0150.Evaluate-Reverse-Polish-Notation/0150.Evaluate-Reverse-Polish-Notation.py)|`栈`|
 |0153|[寻找旋转排序数组中的最小值](./0153.Find-Minimum-In-Rotated-Sorted-Array/README.md)|中等|[Python](./0153.Find-Minimum-In-Rotated-Sorted-Array/0153.Find-Minimum-In-Rotated-Sorted-Array.py)|`数组` `二分查找`|
+|0154|[寻找旋转排序数组中的最小值 II](./0154.Find-Minimum-In-Rotated-Sorted-Array-II/README.md)|困难|[Python](./0154.Find-Minimum-In-Rotated-Sorted-Array-II/0154.Find-Minimum-In-Rotated-Sorted-Array-II.py)|`数组` `二分查找`|
 |0173|[二叉搜索树迭代器](./0173.Binary-Search-Tree-Iterator/README.md)|中等|[Python](./0173.Binary-Search-Tree-Iterator/0173.Binary-Search-Tree-Iterator.py)|`栈` `树` `设计`|
 |0190|[颠倒二进制位](./0190.Reverse-Bits/README.md)|简单|[Python](./0190.Reverse-Bits/0190.Reverse-Bits.py)|`位运算`|
 |0191|[位1的个数](./0191.Number-Of-1-Bits/README.md)|简单|[Python](./0191.Number-Of-1-Bits/0191.Number-Of-1-Bits.py)|`位运算`|

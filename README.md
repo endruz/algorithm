@@ -9,6 +9,7 @@
 |0003|[无重复字符的最长子串](./0003.Longest-Substring-Without-Repeating-Characters/README.md)|中等|[Python](./0003.Longest-Substring-Without-Repeating-Characters/0003.Longest-Substring-Without-Repeating-Characters.py)|`哈希表` `双指针` `字符串` `Sliding Window`|
 |0004|[寻找两个正序数组的中位数](./0004.Median-of-Two-Sorted-Arrays/README.md)|困难|[Python](./0004.Median-of-Two-Sorted-Arrays/0004.Median-of-Two-Sorted-Arrays.py)|`数组` `二分查找` `分治算法`|
 |0005|[最长回文子串](./0005.Longest-Palindromic-Substring/README.md)|中等|[Python](./0005.Longest-Palindromic-Substring/0005.Longest-Palindromic-Substring.py)|`字符串` `动态规划`|
+|0038|[外观数列](./0038.Count-And-Say/README.md)|简单|[Python](./0038.Count-And-Say/0038.Count-And-Say.py)|`字符串`|
 |0054|[螺旋矩阵](./0054.Spiral-Matrix/README.md)|中等|[Python](./0054.Spiral-Matrix/0054.Spiral-Matrix.py)|`数组`|
 |0059|[螺旋矩阵 II](./0059.Spiral-Matrix-II/README.md)|中等|[Python](./0059.Spiral-Matrix-II/0059.Spiral-Matrix-II.py)|`数组`|
 |0061|[旋转链表](./0061.Rotate-List/README.md)|中等|[Python](./0061.Rotate-List/0061.Rotate-List.py)|`链表` `双指针`|

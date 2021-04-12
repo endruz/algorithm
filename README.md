@@ -29,6 +29,7 @@
 |0153|[寻找旋转排序数组中的最小值](./src/0153.Find-Minimum-In-Rotated-Sorted-Array/README.md)|中等|[Python](./src/0153.Find-Minimum-In-Rotated-Sorted-Array/0153.Find-Minimum-In-Rotated-Sorted-Array.py)|`数组` `二分查找`|
 |0154|[寻找旋转排序数组中的最小值 II](./src/0154.Find-Minimum-In-Rotated-Sorted-Array-II/README.md)|困难|[Python](./src/0154.Find-Minimum-In-Rotated-Sorted-Array-II/0154.Find-Minimum-In-Rotated-Sorted-Array-II.py)|`数组` `二分查找`|
 |0173|[二叉搜索树迭代器](./src/0173.Binary-Search-Tree-Iterator/README.md)|中等|[Python](./src/0173.Binary-Search-Tree-Iterator/0173.Binary-Search-Tree-Iterator.py)|`栈` `树` `设计`|
+|0179|[最大数](./src/0179.Largest-Number/README.md)|中等|[Python](./src/0179.Largest-Number/0179.Largest-Number.py)|`排序`|
 |0190|[颠倒二进制位](./src/0190.Reverse-Bits/README.md)|简单|[Python](./src/0190.Reverse-Bits/0190.Reverse-Bits.py)|`位运算`|
 |0191|[位1的个数](./src/0191.Number-Of-1-Bits/README.md)|简单|[Python](./src/0191.Number-Of-1-Bits/0191.Number-Of-1-Bits.py)|`位运算`|
 |0224|[基本计算器](./src/0224.Basic-Calculator/README.md)|困难|[Python](./src/0224.Basic-Calculator/0224.Basic-Calculator.py)|`栈` `数学`|

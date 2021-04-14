@@ -32,6 +32,7 @@
 |0179|[最大数](./src/0179.Largest-Number/README.md)|中等|[Python](./src/0179.Largest-Number/0179.Largest-Number.py)|`排序`|
 |0190|[颠倒二进制位](./src/0190.Reverse-Bits/README.md)|简单|[Python](./src/0190.Reverse-Bits/0190.Reverse-Bits.py)|`位运算`|
 |0191|[位1的个数](./src/0191.Number-Of-1-Bits/README.md)|简单|[Python](./src/0191.Number-Of-1-Bits/0191.Number-Of-1-Bits.py)|`位运算`|
+|0208|[实现 Trie (前缀树)](./src/0208.Implement-Trie-Prefix-Tree/README.md)|中等|[Python](./src/0208.Implement-Trie-Prefix-Tree/0208.Implement-Trie-Prefix-Tree.py)|`设计` `字典树`|
 |0224|[基本计算器](./src/0224.Basic-Calculator/README.md)|困难|[Python](./src/0224.Basic-Calculator/0224.Basic-Calculator.py)|`栈` `数学`|
 |0227|[基本计算器 II](./src/0227.Basic-Calculator-II/README.md)|中等|[Python](./src/0227.Basic-Calculator-II/0227.Basic-Calculator-II.py)|`栈` `字符串`|
 |0232|[用栈实现队列](./src/0232.Implement-Queue-using-Stacks/README.md)|简单|[Python](./src/0232.Implement-Queue-using-Stacks/0232.Implement-Queue-using-Stacks.py)|`栈` `设计`|

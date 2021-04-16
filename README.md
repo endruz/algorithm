@@ -19,6 +19,7 @@
 |0081|[搜索旋转排序数组 II](./src/0081.Search-In-Rotated-Sorted-Array-II/README.md)|中等|[Python](./src/0081.Search-In-Rotated-Sorted-Array-II/0081.Search-In-Rotated-Sorted-Array-II.py)|`数组` `二分查找`|
 |0082|[删除排序链表中的重复元素 II](./src/0082.Remove-Duplicates-From-Sorted-List-II/README.md)|中等|[Python](./src/0082.Remove-Duplicates-From-Sorted-List-II/0082.Remove-Duplicates-From-Sorted-List-II.py)|`链表`|
 |0083|[删除排序链表中的重复元素](./src/0083.Remove-Duplicates-From-Sorted-List/README.md)|简单|[Python](./src/0083.Remove-Duplicates-From-Sorted-List/0083.Remove-Duplicates-From-Sorted-List.py)|`链表`|
+|0087|[扰乱字符串](./src/0087.Scramble-String/README.md)|困难|[Python](./src/0087.Scramble-String/0087.Scramble-String.py)|`字符串` `动态规划`|
 |0088|[合并两个有序数组](./src/0088.Merge-Sorted-Array/README.md)|简单|[Python](./src/0088.Merge-Sorted-Array/0088.Merge-Sorted-Array.py)|`数组` `双指针`|
 |0090|[子集 II](./src/0090.Subsets-II/README.md)|中等|[Python](./src/0090.Subsets-II/0090.Subsets-II.py)|`数组` `回溯算法`|
 |0092|[反转链表 II](./src/0092.Reverse-Linked-List-II/README.md)|中等|[Python](./src/0092.Reverse-Linked-List-II/0092.Reverse-Linked-List-II.py)|`链表`|

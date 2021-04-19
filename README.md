@@ -10,6 +10,7 @@
 |0004|[寻找两个正序数组的中位数](./src/0004.Median-of-Two-Sorted-Arrays/README.md)|困难|[Python](./src/0004.Median-of-Two-Sorted-Arrays/0004.Median-of-Two-Sorted-Arrays.py)|`数组` `二分查找` `分治算法`|
 |0005|[最长回文子串](./src/0005.Longest-Palindromic-Substring/README.md)|中等|[Python](./src/0005.Longest-Palindromic-Substring/0005.Longest-Palindromic-Substring.py)|`字符串` `动态规划`|
 |0026|[删除有序数组中的重复项](./src/0026.Remove-Duplicates-From-Sorted-Array/README.md)|简单|[Python](./src/0026.Remove-Duplicates-From-Sorted-Array/0026.Remove-Duplicates-From-Sorted-Array.py)|`数组` `双指针`|
+|0027|[移除元素](./src/0027.Remove-Element/README.md)|简单|[Python](./src/0027.Remove-Element/0027.Remove-Element.py)|`数组` `双指针`|
 |0038|[外观数列](./src/0038.Count-And-Say/README.md)|简单|[Python](./src/0038.Count-And-Say/0038.Count-And-Say.py)|`字符串`|
 |0054|[螺旋矩阵](./src/0054.Spiral-Matrix/README.md)|中等|[Python](./src/0054.Spiral-Matrix/0054.Spiral-Matrix.py)|`数组`|
 |0059|[螺旋矩阵 II](./src/0059.Spiral-Matrix-II/README.md)|中等|[Python](./src/0059.Spiral-Matrix-II/0059.Spiral-Matrix-II.py)|`数组`|

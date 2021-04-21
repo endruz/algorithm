@@ -25,6 +25,7 @@
 |0087|[扰乱字符串](./src/0087.Scramble-String/README.md)|困难|[Python](./src/0087.Scramble-String/0087.Scramble-String.py)|`字符串` `动态规划`|
 |0088|[合并两个有序数组](./src/0088.Merge-Sorted-Array/README.md)|简单|[Python](./src/0088.Merge-Sorted-Array/0088.Merge-Sorted-Array.py)|`数组` `双指针`|
 |0090|[子集 II](./src/0090.Subsets-II/README.md)|中等|[Python](./src/0090.Subsets-II/0090.Subsets-II.py)|`数组` `回溯算法`|
+|0091|[解码方法](./src/0091.Decode-Ways/README.md)|中等|[Python](./src/0091.Decode-Ways/0091.Decode-Ways.py)|`字符串` `动态规划`|
 |0092|[反转链表 II](./src/0092.Reverse-Linked-List-II/README.md)|中等|[Python](./src/0092.Reverse-Linked-List-II/0092.Reverse-Linked-List-II.py)|`链表`|
 |0115|[不同的子序列](./src/0115.Distinct-Subsequences/README.md)|困难|[Python](./src/0115.Distinct-Subsequences/0115.Distinct-Subsequences.py)|`字符串` `动态规划`|
 |0131|[分割回文串](./src/0131.Palindrome-Partitioning/README.md)|中等|[Python](./src/0131.Palindrome-Partitioning/0131.Palindrome-Partitioning.py)|`深度优先搜索` `动态规划` `回溯算法`|

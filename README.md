@@ -47,6 +47,7 @@
 |0264|[丑数 II](./src/0264.Ugly-Number-II/README.md)|中等|[Python](./src/0264.Ugly-Number-II/0264.Ugly-Number-II.py)|`堆` `数字` `动态规划`|
 |0331|[验证二叉树的前序序列化](./src/0331.Verify-Preorder-Serialization-Of-A-Binary-Tree/README.md)|中等|[Python](./src/0331.Verify-Preorder-Serialization-Of-A-Binary-Tree/0331.Verify-Preorder-Serialization-Of-A-Binary-Tree.py)|`栈`|
 |0341|[扁平化嵌套列表迭代器](./src/0341.Flatten-Nested-List-Iterator/README.md)|中等|[Python](./src/0341.Flatten-Nested-List-Iterator/0341.Flatten-Nested-List-Iterator.py)|`栈` `设计`|
+|0368|[最大整除子集](./src/0368.Largest-Divisible-Subset/README.md)|中等|[Python](./src/0368.Largest-Divisible-Subset/0368.Largest-Divisible-Subset.py)|`数字` `动态规划`|
 |0456|[132模式](./src/0456.132-Pattern/README.md)|中等|[Python](./src/0456.132-Pattern/0456.132-Pattern.py)|`栈`|
 |0503|[下一个更大元素 II](./src/0503.Next-Greater-Element-II/README.md)|中等|[Python](./src/0503.Next-Greater-Element-II/0503.Next-Greater-Element-II.py)|`栈`|
 |0705|[设计哈希集合](./src/0705.Design-Hashset/README.md)|简单|[Python](./src/0705.Design-Hashset/0705.Design-Hashset.py)|`设计` `哈希表`|

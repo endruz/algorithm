@@ -50,6 +50,7 @@
 |0368|[最大整除子集](./src/0368.Largest-Divisible-Subset/README.md)|中等|[Python](./src/0368.Largest-Divisible-Subset/0368.Largest-Divisible-Subset.py)|`数字` `动态规划`|
 |0456|[132模式](./src/0456.132-Pattern/README.md)|中等|[Python](./src/0456.132-Pattern/0456.132-Pattern.py)|`栈`|
 |0503|[下一个更大元素 II](./src/0503.Next-Greater-Element-II/README.md)|中等|[Python](./src/0503.Next-Greater-Element-II/0503.Next-Greater-Element-II.py)|`栈`|
+|0633|[平方数之和](./src/0633.Sum-Of-Square-Numbers/README.md)|中等|[Python](./src/0633.Sum-Of-Square-Numbers/0633.Sum-Of-Square-Numbers.py)|`数学`|
 |0705|[设计哈希集合](./src/0705.Design-Hashset/README.md)|简单|[Python](./src/0705.Design-Hashset/0705.Design-Hashset.py)|`设计` `哈希表`|
 |0706|[设计哈希映射](./src/0706.Design-Hashmap/README.md)|简单|[Python](./src/0706.Design-Hashmap/0706.Design-Hashmap.py)|`设计` `哈希表`|
 |0781|[森林中的兔子](./src/0781.Rabbits-In-Forest/README.md)|中等|[Python](./src/0781.Rabbits-In-Forest/0781.Rabbits-In-Forest.py)|`哈希表` `数字`|

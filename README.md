@@ -48,6 +48,7 @@
 |0331|[验证二叉树的前序序列化](./src/0331.Verify-Preorder-Serialization-Of-A-Binary-Tree/README.md)|中等|[Python](./src/0331.Verify-Preorder-Serialization-Of-A-Binary-Tree/0331.Verify-Preorder-Serialization-Of-A-Binary-Tree.py)|`栈`|
 |0341|[扁平化嵌套列表迭代器](./src/0341.Flatten-Nested-List-Iterator/README.md)|中等|[Python](./src/0341.Flatten-Nested-List-Iterator/0341.Flatten-Nested-List-Iterator.py)|`栈` `设计`|
 |0368|[最大整除子集](./src/0368.Largest-Divisible-Subset/README.md)|中等|[Python](./src/0368.Largest-Divisible-Subset/0368.Largest-Divisible-Subset.py)|`数字` `动态规划`|
+|0403|[青蛙过河](./src/0403.Frog-Jump/README.md)|困难|[Python](./src/0403.Frog-Jump/0403.Frog-Jump.py)|`动态规划`|
 |0456|[132模式](./src/0456.132-Pattern/README.md)|中等|[Python](./src/0456.132-Pattern/0456.132-Pattern.py)|`栈`|
 |0503|[下一个更大元素 II](./src/0503.Next-Greater-Element-II/README.md)|中等|[Python](./src/0503.Next-Greater-Element-II/0503.Next-Greater-Element-II.py)|`栈`|
 |0633|[平方数之和](./src/0633.Sum-Of-Square-Numbers/README.md)|中等|[Python](./src/0633.Sum-Of-Square-Numbers/0633.Sum-Of-Square-Numbers.py)|`数学`|

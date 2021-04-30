@@ -30,6 +30,7 @@
 |0115|[不同的子序列](./src/0115.Distinct-Subsequences/README.md)|困难|[Python](./src/0115.Distinct-Subsequences/0115.Distinct-Subsequences.py)|`字符串` `动态规划`|
 |0131|[分割回文串](./src/0131.Palindrome-Partitioning/README.md)|中等|[Python](./src/0131.Palindrome-Partitioning/0131.Palindrome-Partitioning.py)|`深度优先搜索` `动态规划` `回溯算法`|
 |0132|[分割回文串 II](./src/0132.Palindrome-Partitioning-II/README.md)|困难|*[Python](./src/0132.Palindrome-Partitioning-II/0132.Palindrome-Partitioning-II.py)*|`动态规划`|
+|0137|[只出现一次的数字 II](./src/0137.Single-Number-II/README.md)|中等|[Python](./src/0137.Single-Number-II/0137.Single-Number-II.py)|`位运算`|
 |0150|[逆波兰表达式求值](./src/0150.Evaluate-Reverse-Polish-Notation/README.md)|中等|[Python](./src/0150.Evaluate-Reverse-Polish-Notation/0150.Evaluate-Reverse-Polish-Notation.py)|`栈`|
 |0153|[寻找旋转排序数组中的最小值](./src/0153.Find-Minimum-In-Rotated-Sorted-Array/README.md)|中等|[Python](./src/0153.Find-Minimum-In-Rotated-Sorted-Array/0153.Find-Minimum-In-Rotated-Sorted-Array.py)|`数组` `二分查找`|
 |0154|[寻找旋转排序数组中的最小值 II](./src/0154.Find-Minimum-In-Rotated-Sorted-Array-II/README.md)|困难|[Python](./src/0154.Find-Minimum-In-Rotated-Sorted-Array-II/0154.Find-Minimum-In-Rotated-Sorted-Array-II.py)|`数组` `二分查找`|

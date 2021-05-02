@@ -52,6 +52,7 @@
 |0403|[青蛙过河](./src/0403.Frog-Jump/README.md)|困难|[Python](./src/0403.Frog-Jump/0403.Frog-Jump.py)|`动态规划`|
 |0456|[132模式](./src/0456.132-Pattern/README.md)|中等|[Python](./src/0456.132-Pattern/0456.132-Pattern.py)|`栈`|
 |0503|[下一个更大元素 II](./src/0503.Next-Greater-Element-II/README.md)|中等|[Python](./src/0503.Next-Greater-Element-II/0503.Next-Greater-Element-II.py)|`栈`|
+|0554|[砖墙](./src/0554.Brick-Wall/README.md)|中等|[Python](./src/0554.Brick-Wall/0554.Brick-Wall.py)|`哈希表`|
 |0633|[平方数之和](./src/0633.Sum-Of-Square-Numbers/README.md)|中等|[Python](./src/0633.Sum-Of-Square-Numbers/0633.Sum-Of-Square-Numbers.py)|`数学`|
 |0690|[员工的重要性](./src/0690.Employee-Importance/README.md)|简单|[Python](./src/0690.Employee-Importance/0690.Employee-Importance.py)|`深度优先搜索` `广度优先搜索` `哈希表`|
 |0705|[设计哈希集合](./src/0705.Design-Hashset/README.md)|简单|[Python](./src/0705.Design-Hashset/0705.Design-Hashset.py)|`设计` `哈希表`|

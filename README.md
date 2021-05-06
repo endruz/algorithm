@@ -68,4 +68,5 @@
 |1047|[删除字符串中的所有相邻重复项](./src/1047.Remove-All-Adjacent-Duplicates-In-String/README.md)|简单|[Python](./src/1047.Remove-All-Adjacent-Duplicates-In-String/1047.Remove-All-Adjacent-Duplicates-In-String.py)|`栈`|
 |1143|[最长公共子序列](./src/1143.Longest-Common-Subsequence/README.md)|中等|[Python](./src/1143.Longest-Common-Subsequence/1143.Longest-Common-Subsequence.py)|`动态规划`|
 |1603|[设计停车系统](./src/1603.Design-Parking-System/README.md)|简单|[Python](./src/1603.Design-Parking-System/1603.Design-Parking-System.py)|`设计`|
+|1720|[解码异或后的数组](./src/1720.Decode-Xored-Array/README.md)|简单|[Python](./src/1720.Decode-Xored-Array/1720.Decode-Xored-Array.py)|`位运算`|
 |面试题 17.21|[直方图的水量](./src/Interview-Question-17.21.Volume-Of-Histogram-LCCI/README.md)|困难|[Python](./src/Interview-Question-17.21.Volume-Of-Histogram-LCCI/Interview-Question-17.21.Volume-Of-Histogram-LCCI.py)|`栈` `数组` `双指针`|

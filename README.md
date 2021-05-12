@@ -68,6 +68,7 @@
 |1011|[在 D 天内送达包裹的能力](./src/1011.Capacity-To-Ship-Packages-Within-D-Days/README.md)|中等|[Python](./src/1011.Capacity-To-Ship-Packages-Within-D-Days/1011.Capacity-To-Ship-Packages-Within-D-Days.py)|`数组` `二分查找`|
 |1047|[删除字符串中的所有相邻重复项](./src/1047.Remove-All-Adjacent-Duplicates-In-String/README.md)|简单|[Python](./src/1047.Remove-All-Adjacent-Duplicates-In-String/1047.Remove-All-Adjacent-Duplicates-In-String.py)|`栈`|
 |1143|[最长公共子序列](./src/1143.Longest-Common-Subsequence/README.md)|中等|[Python](./src/1143.Longest-Common-Subsequence/1143.Longest-Common-Subsequence.py)|`动态规划`|
+|1310|[子数组异或查询](./src/1310.XOR-Queries-Of-A-Subarray/README.md)|中等|[Python](./src/1310.XOR-Queries-Of-A-Subarray/1310.XOR-Queries-Of-A-Subarray.py)|`位运算`|
 |1482|[制作 m 束花所需的最少天数](./src/1482.Minimum-Number-Of-Days-To-Make-M-Bouquets/README.md)|中等|[Python](./src/1482.Minimum-Number-Of-Days-To-Make-M-Bouquets/1482.Minimum-Number-Of-Days-To-Make-M-Bouquets.py)|`数组` `二分查找`|
 |1486|[数组异或操作](./src/1486.XOR-Operation-In-An-Array/README.md)|简单|[Python](./src/1486.XOR-Operation-In-An-Array/1486.XOR-Operation-In-An-Array.py)|`位运算` `数组`|
 |1603|[设计停车系统](./src/1603.Design-Parking-System/README.md)|简单|[Python](./src/1603.Design-Parking-System/1603.Design-Parking-System.py)|`设计`|

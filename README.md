@@ -53,6 +53,7 @@
 |0341|[扁平化嵌套列表迭代器](./src/0341.Flatten-Nested-List-Iterator/README.md)|中等|[Python](./src/0341.Flatten-Nested-List-Iterator/0341.Flatten-Nested-List-Iterator.py)|`栈` `设计`|
 |0368|[最大整除子集](./src/0368.Largest-Divisible-Subset/README.md)|中等|[Python](./src/0368.Largest-Divisible-Subset/0368.Largest-Divisible-Subset.py)|`数字` `动态规划`|
 |0403|[青蛙过河](./src/0403.Frog-Jump/README.md)|困难|[Python](./src/0403.Frog-Jump/0403.Frog-Jump.py)|`动态规划`|
+|0421|[数组中两个数的最大异或值](./src/0421.Maximum-XOR-Of-Two-Numbers-In-An-Array/README.md)|中等|[Python](./src/0421.Maximum-XOR-Of-Two-Numbers-In-An-Array/0421.Maximum-XOR-Of-Two-Numbers-In-An-Array.py)|`位运算` `字典树`|
 |0456|[132模式](./src/0456.132-Pattern/README.md)|中等|[Python](./src/0456.132-Pattern/0456.132-Pattern.py)|`栈`|
 |0503|[下一个更大元素 II](./src/0503.Next-Greater-Element-II/README.md)|中等|[Python](./src/0503.Next-Greater-Element-II/0503.Next-Greater-Element-II.py)|`栈`|
 |0554|[砖墙](./src/0554.Brick-Wall/README.md)|中等|[Python](./src/0554.Brick-Wall/0554.Brick-Wall.py)|`哈希表`|

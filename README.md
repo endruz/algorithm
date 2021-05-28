@@ -56,6 +56,7 @@
 |0421|[数组中两个数的最大异或值](./src/0421.Maximum-XOR-Of-Two-Numbers-In-An-Array/README.md)|中等|[Python](./src/0421.Maximum-XOR-Of-Two-Numbers-In-An-Array/0421.Maximum-XOR-Of-Two-Numbers-In-An-Array.py)|`位运算` `字典树`|
 |0456|[132模式](./src/0456.132-Pattern/README.md)|中等|[Python](./src/0456.132-Pattern/0456.132-Pattern.py)|`栈`|
 |0461|[汉明距离](./src/0461.Hamming-Distance/README.md)|简单|[Python](./src/0461.Hamming-Distance/0461.Hamming-Distance.py)|`位运算`|
+|0477|[汉明距离总和](./src/0477.Total-Hamming-Distance/README.md)|中等|[Python](./src/0477.Total-Hamming-Distance/0477.Total-Hamming-Distance.py)|`位运算`|
 |0503|[下一个更大元素 II](./src/0503.Next-Greater-Element-II/README.md)|中等|[Python](./src/0503.Next-Greater-Element-II/0503.Next-Greater-Element-II.py)|`栈`|
 |0554|[砖墙](./src/0554.Brick-Wall/README.md)|中等|[Python](./src/0554.Brick-Wall/0554.Brick-Wall.py)|`哈希表`|
 |0633|[平方数之和](./src/0633.Sum-Of-Square-Numbers/README.md)|中等|[Python](./src/0633.Sum-Of-Square-Numbers/0633.Sum-Of-Square-Numbers.py)|`数学`|

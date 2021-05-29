@@ -59,6 +59,7 @@
 |0477|[汉明距离总和](./src/0477.total-hamming-distance/README.md)|中等|[python](./src/0477.total-hamming-distance/0477.total-hamming-distance.py)|`位运算`|
 |0503|[下一个更大元素 ii](./src/0503.next-greater-element-ii/README.md)|中等|[python](./src/0503.next-greater-element-ii/0503.next-greater-element-ii.py)|`栈`|
 |0554|[砖墙](./src/0554.brick-wall/README.md)|中等|[python](./src/0554.brick-wall/0554.brick-wall.py)|`哈希表`|
+|0560|[和为K的子数组](./src/0560.subarray-sum-equals-k/README.md)|中等|[python](./src/0560.subarray-sum-equals-k/0560.subarray-sum-equals-k.py)|`数组` `哈希表`|
 |0633|[平方数之和](./src/0633.sum-of-square-numbers/README.md)|中等|[python](./src/0633.sum-of-square-numbers/0633.sum-of-square-numbers.py)|`数学`|
 |0690|[员工的重要性](./src/0690.employee-importance/README.md)|简单|[python](./src/0690.employee-importance/0690.employee-importance.py)|`深度优先搜索` `广度优先搜索` `哈希表`|
 |0692|[前k个高频单词](./src/0692.top-k-frequent-words/README.md)|中等|[python](./src/0692.top-k-frequent-words/0692.top-k-frequent-words.py)|`堆` `字典树` `哈希表`|

@@ -4,85 +4,85 @@
 
 |编号|题目|难度|解决方案|标签|
 |:-:|:--|:-:|:--|:--|
-|0001|[两数之和](./src/0001.Two-Sum/README.md)|简单|[Python](./src/0001.Two-Sum/0001.Two-Sum.py)|`数组` `哈希表`|
-|0002|[两数相加](./src/0002.Add-Two-Numbers/README.md)|中等|[Python](./src/0002.Add-Two-Numbers/0002.Add-Two-Numbers.py)|`链表` `数学`|
-|0003|[无重复字符的最长子串](./src/0003.Longest-Substring-Without-Repeating-Characters/README.md)|中等|[Python](./src/0003.Longest-Substring-Without-Repeating-Characters/0003.Longest-Substring-Without-Repeating-Characters.py)|`哈希表` `双指针` `字符串` `Sliding Window`|
-|0004|[寻找两个正序数组的中位数](./src/0004.Median-of-Two-Sorted-Arrays/README.md)|困难|[Python](./src/0004.Median-of-Two-Sorted-Arrays/0004.Median-of-Two-Sorted-Arrays.py)|`数组` `二分查找` `分治算法`|
-|0005|[最长回文子串](./src/0005.Longest-Palindromic-Substring/README.md)|中等|[Python](./src/0005.Longest-Palindromic-Substring/0005.Longest-Palindromic-Substring.py)|`字符串` `动态规划`|
-|0007|[整数反转](./src/0007.Reverse-Integer/README.md)|简单|[Python](./src/0007.Reverse-Integer/0007.Reverse-Integer.py)|`数学`|
-|0012|[整数转罗马数字](./src/0012.Integer-To-Roman/README.md)|中等|[Python](./src/0012.Integer-To-Roman/0012.Integer-To-Roman.py)|`数学` `字符串`|
-|0013|[罗马数字转整数](./src/0013.Roman-To-Integer/README.md)|简单|[Python](./src/0013.Roman-To-Integer/0013.Roman-To-Integer.py)|`数学` `字符串`|
-|0026|[删除有序数组中的重复项](./src/0026.Remove-Duplicates-From-Sorted-Array/README.md)|简单|[Python](./src/0026.Remove-Duplicates-From-Sorted-Array/0026.Remove-Duplicates-From-Sorted-Array.py)|`数组` `双指针`|
-|0027|[移除元素](./src/0027.Remove-Element/README.md)|简单|[Python](./src/0027.Remove-Element/0027.Remove-Element.py)|`数组` `双指针`|
-|0028|[实现 strStr()](./src/0028.Implement-Strstr/README.md)|简单|[Python](./src/0028.Implement-Strstr/0028.Implement-Strstr.py)|`双指针` `字符串`|
-|0038|[外观数列](./src/0038.Count-And-Say/README.md)|简单|[Python](./src/0038.Count-And-Say/0038.Count-And-Say.py)|`字符串`|
-|0054|[螺旋矩阵](./src/0054.Spiral-Matrix/README.md)|中等|[Python](./src/0054.Spiral-Matrix/0054.Spiral-Matrix.py)|`数组`|
-|0059|[螺旋矩阵 II](./src/0059.Spiral-Matrix-II/README.md)|中等|[Python](./src/0059.Spiral-Matrix-II/0059.Spiral-Matrix-II.py)|`数组`|
-|0061|[旋转链表](./src/0061.Rotate-List/README.md)|中等|[Python](./src/0061.Rotate-List/0061.Rotate-List.py)|`链表` `双指针`|
-|0073|[矩阵置零](./src/0073.Set-Matrix-Zeroes/README.md)|中等|[Python](./src/0073.Set-Matrix-Zeroes/0073.Set-Matrix-Zeroes.py)|`数组`|
-|0074|[搜索二维矩阵](./src/0074.Search-A-2D-Matrix/README.md)|中等|[Python](./src/0074.Search-A-2D-Matrix/0074.Search-A-2D-Matrix.py)|`数组` `二分查找`|
-|0080|[删除有序数组中的重复项 II](./src/0080.Remove-Duplicates-from-Sorted-Array-II/README.md)|中等|[Python](./src/0080.Remove-Duplicates-from-Sorted-Array-II/0080.Remove-Duplicates-from-Sorted-Array-II.py)|`数组` `双指针`|
-|0081|[搜索旋转排序数组 II](./src/0081.Search-In-Rotated-Sorted-Array-II/README.md)|中等|[Python](./src/0081.Search-In-Rotated-Sorted-Array-II/0081.Search-In-Rotated-Sorted-Array-II.py)|`数组` `二分查找`|
-|0082|[删除排序链表中的重复元素 II](./src/0082.Remove-Duplicates-From-Sorted-List-II/README.md)|中等|[Python](./src/0082.Remove-Duplicates-From-Sorted-List-II/0082.Remove-Duplicates-From-Sorted-List-II.py)|`链表`|
-|0083|[删除排序链表中的重复元素](./src/0083.Remove-Duplicates-From-Sorted-List/README.md)|简单|[Python](./src/0083.Remove-Duplicates-From-Sorted-List/0083.Remove-Duplicates-From-Sorted-List.py)|`链表`|
-|0087|[扰乱字符串](./src/0087.Scramble-String/README.md)|困难|[Python](./src/0087.Scramble-String/0087.Scramble-String.py)|`字符串` `动态规划`|
-|0088|[合并两个有序数组](./src/0088.Merge-Sorted-Array/README.md)|简单|[Python](./src/0088.Merge-Sorted-Array/0088.Merge-Sorted-Array.py)|`数组` `双指针`|
-|0090|[子集 II](./src/0090.Subsets-II/README.md)|中等|[Python](./src/0090.Subsets-II/0090.Subsets-II.py)|`数组` `回溯算法`|
-|0091|[解码方法](./src/0091.Decode-Ways/README.md)|中等|[Python](./src/0091.Decode-Ways/0091.Decode-Ways.py)|`字符串` `动态规划`|
-|0092|[反转链表 II](./src/0092.Reverse-Linked-List-II/README.md)|中等|[Python](./src/0092.Reverse-Linked-List-II/0092.Reverse-Linked-List-II.py)|`链表`|
-|0115|[不同的子序列](./src/0115.Distinct-Subsequences/README.md)|困难|[Python](./src/0115.Distinct-Subsequences/0115.Distinct-Subsequences.py)|`字符串` `动态规划`|
-|0131|[分割回文串](./src/0131.Palindrome-Partitioning/README.md)|中等|[Python](./src/0131.Palindrome-Partitioning/0131.Palindrome-Partitioning.py)|`深度优先搜索` `动态规划` `回溯算法`|
-|0132|[分割回文串 II](./src/0132.Palindrome-Partitioning-II/README.md)|困难|*[Python](./src/0132.Palindrome-Partitioning-II/0132.Palindrome-Partitioning-II.py)*|`动态规划`|
-|0137|[只出现一次的数字 II](./src/0137.Single-Number-II/README.md)|中等|[Python](./src/0137.Single-Number-II/0137.Single-Number-II.py)|`位运算`|
-|0150|[逆波兰表达式求值](./src/0150.Evaluate-Reverse-Polish-Notation/README.md)|中等|[Python](./src/0150.Evaluate-Reverse-Polish-Notation/0150.Evaluate-Reverse-Polish-Notation.py)|`栈`|
-|0153|[寻找旋转排序数组中的最小值](./src/0153.Find-Minimum-In-Rotated-Sorted-Array/README.md)|中等|[Python](./src/0153.Find-Minimum-In-Rotated-Sorted-Array/0153.Find-Minimum-In-Rotated-Sorted-Array.py)|`数组` `二分查找`|
-|0154|[寻找旋转排序数组中的最小值 II](./src/0154.Find-Minimum-In-Rotated-Sorted-Array-II/README.md)|困难|[Python](./src/0154.Find-Minimum-In-Rotated-Sorted-Array-II/0154.Find-Minimum-In-Rotated-Sorted-Array-II.py)|`数组` `二分查找`|
-|0173|[二叉搜索树迭代器](./src/0173.Binary-Search-Tree-Iterator/README.md)|中等|[Python](./src/0173.Binary-Search-Tree-Iterator/0173.Binary-Search-Tree-Iterator.py)|`栈` `树` `设计`|
-|0179|[最大数](./src/0179.Largest-Number/README.md)|中等|[Python](./src/0179.Largest-Number/0179.Largest-Number.py)|`排序`|
-|0190|[颠倒二进制位](./src/0190.Reverse-Bits/README.md)|简单|[Python](./src/0190.Reverse-Bits/0190.Reverse-Bits.py)|`位运算`|
-|0191|[位1的个数](./src/0191.Number-Of-1-Bits/README.md)|简单|[Python](./src/0191.Number-Of-1-Bits/0191.Number-Of-1-Bits.py)|`位运算`|
-|0208|[实现 Trie (前缀树)](./src/0208.Implement-Trie-Prefix-Tree/README.md)|中等|[Python](./src/0208.Implement-Trie-Prefix-Tree/0208.Implement-Trie-Prefix-Tree.py)|`设计` `字典树`|
-|0213|[打家劫舍 II](./src/0213.House-Robber-II/README.md)|中等|[Python](./src/0213.House-Robber-II/0213.House-Robber-II.py)|`动态规划`|
-|0220|[存在重复元素 III](./src/0220.Contains-Duplicate-III/README.md)|中等|[Python](./src/0220.Contains-Duplicate-III/0220.Contains-Duplicate-III.py)|`排序` `Ordered Map`|
-|0224|[基本计算器](./src/0224.Basic-Calculator/README.md)|困难|[Python](./src/0224.Basic-Calculator/0224.Basic-Calculator.py)|`栈` `数学`|
-|0227|[基本计算器 II](./src/0227.Basic-Calculator-II/README.md)|中等|[Python](./src/0227.Basic-Calculator-II/0227.Basic-Calculator-II.py)|`栈` `字符串`|
-|0232|[用栈实现队列](./src/0232.Implement-Queue-using-Stacks/README.md)|简单|[Python](./src/0232.Implement-Queue-using-Stacks/0232.Implement-Queue-using-Stacks.py)|`栈` `设计`|
-|0236|[丑数](./src/0236.Ugly-Number/README.md)|简单|[Python](./src/0236.Ugly-Number/0236.Ugly-Number.py)|`数字`|
-|0264|[丑数 II](./src/0264.Ugly-Number-II/README.md)|中等|[Python](./src/0264.Ugly-Number-II/0264.Ugly-Number-II.py)|`堆` `数字` `动态规划`|
-|0331|[验证二叉树的前序序列化](./src/0331.Verify-Preorder-Serialization-Of-A-Binary-Tree/README.md)|中等|[Python](./src/0331.Verify-Preorder-Serialization-Of-A-Binary-Tree/0331.Verify-Preorder-Serialization-Of-A-Binary-Tree.py)|`栈`|
-|0341|[扁平化嵌套列表迭代器](./src/0341.Flatten-Nested-List-Iterator/README.md)|中等|[Python](./src/0341.Flatten-Nested-List-Iterator/0341.Flatten-Nested-List-Iterator.py)|`栈` `设计`|
-|0368|[最大整除子集](./src/0368.Largest-Divisible-Subset/README.md)|中等|[Python](./src/0368.Largest-Divisible-Subset/0368.Largest-Divisible-Subset.py)|`数字` `动态规划`|
-|0403|[青蛙过河](./src/0403.Frog-Jump/README.md)|困难|[Python](./src/0403.Frog-Jump/0403.Frog-Jump.py)|`动态规划`|
-|0421|[数组中两个数的最大异或值](./src/0421.Maximum-XOR-Of-Two-Numbers-In-An-Array/README.md)|中等|[Python](./src/0421.Maximum-XOR-Of-Two-Numbers-In-An-Array/0421.Maximum-XOR-Of-Two-Numbers-In-An-Array.py)|`位运算` `字典树`|
-|0456|[132模式](./src/0456.132-Pattern/README.md)|中等|[Python](./src/0456.132-Pattern/0456.132-Pattern.py)|`栈`|
-|0461|[汉明距离](./src/0461.Hamming-Distance/README.md)|简单|[Python](./src/0461.Hamming-Distance/0461.Hamming-Distance.py)|`位运算`|
-|0477|[汉明距离总和](./src/0477.Total-Hamming-Distance/README.md)|中等|[Python](./src/0477.Total-Hamming-Distance/0477.Total-Hamming-Distance.py)|`位运算`|
-|0503|[下一个更大元素 II](./src/0503.Next-Greater-Element-II/README.md)|中等|[Python](./src/0503.Next-Greater-Element-II/0503.Next-Greater-Element-II.py)|`栈`|
-|0554|[砖墙](./src/0554.Brick-Wall/README.md)|中等|[Python](./src/0554.Brick-Wall/0554.Brick-Wall.py)|`哈希表`|
-|0633|[平方数之和](./src/0633.Sum-Of-Square-Numbers/README.md)|中等|[Python](./src/0633.Sum-Of-Square-Numbers/0633.Sum-Of-Square-Numbers.py)|`数学`|
-|0690|[员工的重要性](./src/0690.Employee-Importance/README.md)|简单|[Python](./src/0690.Employee-Importance/0690.Employee-Importance.py)|`深度优先搜索` `广度优先搜索` `哈希表`|
-|0692|[前K个高频单词](./src/0692.Top-K-Frequent-Words/README.md)|中等|[Python](./src/0692.Top-K-Frequent-Words/0692.Top-K-Frequent-Words.py)|`堆` `字典树` `哈希表`|
-|0705|[设计哈希集合](./src/0705.Design-Hashset/README.md)|简单|[Python](./src/0705.Design-Hashset/0705.Design-Hashset.py)|`设计` `哈希表`|
-|0706|[设计哈希映射](./src/0706.Design-Hashmap/README.md)|简单|[Python](./src/0706.Design-Hashmap/0706.Design-Hashmap.py)|`设计` `哈希表`|
-|0740|[删除并获得点数](./src/0740.Delete-And-Earn/README.md)|中等|[Python](./src/0740.Delete-And-Earn/0740.Delete-And-Earn.py)|`动态规划`|
-|0781|[森林中的兔子](./src/0781.Rabbits-In-Forest/README.md)|中等|[Python](./src/0781.Rabbits-In-Forest/0781.Rabbits-In-Forest.py)|`哈希表` `数字`|
-|0783|[二叉搜索树节点最小距离](./src/0783.Minimum-Distance-Between-BST-Nodes/README.md)|简单|[Python](./src/0783.Minimum-Distance-Between-BST-Nodes/0783.Minimum-Distance-Between-BST-Nodes.py)|`树` `深度优先搜索` `递归`|
-|0810|[黑板异或游戏](./src/0810.Chalkboard-XOR-Game/README.md)|困难|[Python](./src/0810.Chalkboard-XOR-Game/0810.Chalkboard-XOR-Game.py)|`数学`|
-|0872|[叶子相似的树](./src/0872.Leaf-Similar-Trees/README.md)|简单|[Python](./src/0872.Leaf-Similar-Trees/0872.Leaf-Similar-Trees.py)|`树` `深度优先搜索`|
-|0897|[递增顺序搜索树](./src/0897.Increasing-Order-Search-Tree/README.md)|简单|[Python](./src/0897.Increasing-Order-Search-Tree/0897.Increasing-Order-Search-Tree.py)|`树` `深度优先搜索` `递归`|
-|0938|[二叉搜索树的范围和](./src/0938.Range-Sum-Of-BST/README.md)|简单|[Python](./src/0938.Range-Sum-Of-BST/0938.Range-Sum-Of-BST.py)|`树` `深度优先搜索` `递归`|
-|0993|[二叉树的堂兄弟节点](./src/0993.Cousins-In-Binary-Tree/README.md)|简单|[Python](./src/0993.Cousins-In-Binary-Tree/0993.Cousins-In-Binary-Tree.py)|`树` `广度优先搜索`|
-|1006|[笨阶乘](./src/1006.Clumsy-Factorial/README.md)|简单|[Python](./src/1006.Clumsy-Factorial/1006.Clumsy-Factorial.py)|`数学`|
-|1011|[在 D 天内送达包裹的能力](./src/1011.Capacity-To-Ship-Packages-Within-D-Days/README.md)|中等|[Python](./src/1011.Capacity-To-Ship-Packages-Within-D-Days/1011.Capacity-To-Ship-Packages-Within-D-Days.py)|`数组` `二分查找`|
-|1035|[不相交的线](./src/1035.Uncrossed-Lines/README.md)|中等|[Python](./src/1035.Uncrossed-Lines/1035.Uncrossed-Lines.py)|`数组`|
-|1047|[删除字符串中的所有相邻重复项](./src/1047.Remove-All-Adjacent-Duplicates-In-String/README.md)|简单|[Python](./src/1047.Remove-All-Adjacent-Duplicates-In-String/1047.Remove-All-Adjacent-Duplicates-In-String.py)|`栈`|
-|1143|[最长公共子序列](./src/1143.Longest-Common-Subsequence/README.md)|中等|[Python](./src/1143.Longest-Common-Subsequence/1143.Longest-Common-Subsequence.py)|`动态规划`|
-|1269|[停在原地的方案数](./src/1269.Number-Of-Ways-To-Stay-In-The-Same-Place-After-Some-Steps/README.md)|困难|[Python](./src/1269.Number-Of-Ways-To-Stay-In-The-Same-Place-After-Some-Steps/1269.Number-Of-Ways-To-Stay-In-The-Same-Place-After-Some-Steps.py)|`动态规划`|
-|1310|[子数组异或查询](./src/1310.XOR-Queries-Of-A-Subarray/README.md)|中等|[Python](./src/1310.XOR-Queries-Of-A-Subarray/1310.XOR-Queries-Of-A-Subarray.py)|`位运算`|
-|1482|[制作 m 束花所需的最少天数](./src/1482.Minimum-Number-Of-Days-To-Make-M-Bouquets/README.md)|中等|[Python](./src/1482.Minimum-Number-Of-Days-To-Make-M-Bouquets/1482.Minimum-Number-Of-Days-To-Make-M-Bouquets.py)|`数组` `二分查找`|
-|1486|[数组异或操作](./src/1486.XOR-Operation-In-An-Array/README.md)|简单|[Python](./src/1486.XOR-Operation-In-An-Array/1486.XOR-Operation-In-An-Array.py)|`位运算` `数组`|
-|1603|[设计停车系统](./src/1603.Design-Parking-System/README.md)|简单|[Python](./src/1603.Design-Parking-System/1603.Design-Parking-System.py)|`设计`|
-|1720|[解码异或后的数组](./src/1720.Decode-Xored-Array/README.md)|简单|[Python](./src/1720.Decode-Xored-Array/1720.Decode-Xored-Array.py)|`位运算`|
-|1734|[解码异或后的排列](./src/1734.Decode-Xored-Permutation/README.md)|中等|[Python](./src/1734.Decode-Xored-Permutation/1734.Decode-Xored-Permutation.py)|`位运算`|
-|1738|[找出第 K 大的异或坐标值](./src/1738.Find-kth-Largest-XOR-Coordinate-Value/README.md)|中等|[Python](./src/1738.Find-kth-Largest-XOR-Coordinate-Value/1738.Find-kth-Largest-XOR-Coordinate-Value.py)|`数组`|
-|面试题 17.21|[直方图的水量](./src/Interview-Question-17.21.Volume-Of-Histogram-LCCI/README.md)|困难|[Python](./src/Interview-Question-17.21.Volume-Of-Histogram-LCCI/Interview-Question-17.21.Volume-Of-Histogram-LCCI.py)|`栈` `数组` `双指针`|
+|0001|[两数之和](./src/0001.two-sum/README.md)|简单|[python](./src/0001.two-sum/0001.two-sum.py)|`数组` `哈希表`|
+|0002|[两数相加](./src/0002.add-two-numbers/README.md)|中等|[python](./src/0002.add-two-numbers/0002.add-two-numbers.py)|`链表` `数学`|
+|0003|[无重复字符的最长子串](./src/0003.longest-substring-without-repeating-characters/README.md)|中等|[python](./src/0003.longest-substring-without-repeating-characters/0003.longest-substring-without-repeating-characters.py)|`哈希表` `双指针` `字符串` `sliding window`|
+|0004|[寻找两个正序数组的中位数](./src/0004.median-of-two-sorted-arrays/README.md)|困难|[python](./src/0004.median-of-two-sorted-arrays/0004.median-of-two-sorted-arrays.py)|`数组` `二分查找` `分治算法`|
+|0005|[最长回文子串](./src/0005.longest-palindromic-substring/README.md)|中等|[python](./src/0005.longest-palindromic-substring/0005.longest-palindromic-substring.py)|`字符串` `动态规划`|
+|0007|[整数反转](./src/0007.reverse-integer/README.md)|简单|[python](./src/0007.reverse-integer/0007.reverse-integer.py)|`数学`|
+|0012|[整数转罗马数字](./src/0012.integer-to-roman/README.md)|中等|[python](./src/0012.integer-to-roman/0012.integer-to-roman.py)|`数学` `字符串`|
+|0013|[罗马数字转整数](./src/0013.roman-to-integer/README.md)|简单|[python](./src/0013.roman-to-integer/0013.roman-to-integer.py)|`数学` `字符串`|
+|0026|[删除有序数组中的重复项](./src/0026.remove-duplicates-from-sorted-array/README.md)|简单|[python](./src/0026.remove-duplicates-from-sorted-array/0026.remove-duplicates-from-sorted-array.py)|`数组` `双指针`|
+|0027|[移除元素](./src/0027.remove-element/README.md)|简单|[python](./src/0027.remove-element/0027.remove-element.py)|`数组` `双指针`|
+|0028|[实现 strstr()](./src/0028.implement-strstr/README.md)|简单|[python](./src/0028.implement-strstr/0028.implement-strstr.py)|`双指针` `字符串`|
+|0038|[外观数列](./src/0038.count-and-say/README.md)|简单|[python](./src/0038.count-and-say/0038.count-and-say.py)|`字符串`|
+|0054|[螺旋矩阵](./src/0054.spiral-matrix/README.md)|中等|[python](./src/0054.spiral-matrix/0054.spiral-matrix.py)|`数组`|
+|0059|[螺旋矩阵 ii](./src/0059.spiral-matrix-ii/README.md)|中等|[python](./src/0059.spiral-matrix-ii/0059.spiral-matrix-ii.py)|`数组`|
+|0061|[旋转链表](./src/0061.rotate-list/README.md)|中等|[python](./src/0061.rotate-list/0061.rotate-list.py)|`链表` `双指针`|
+|0073|[矩阵置零](./src/0073.set-matrix-zeroes/README.md)|中等|[python](./src/0073.set-matrix-zeroes/0073.set-matrix-zeroes.py)|`数组`|
+|0074|[搜索二维矩阵](./src/0074.search-a-2d-matrix/README.md)|中等|[python](./src/0074.search-a-2d-matrix/0074.search-a-2d-matrix.py)|`数组` `二分查找`|
+|0080|[删除有序数组中的重复项 ii](./src/0080.remove-duplicates-from-sorted-array-ii/README.md)|中等|[python](./src/0080.remove-duplicates-from-sorted-array-ii/0080.remove-duplicates-from-sorted-array-ii.py)|`数组` `双指针`|
+|0081|[搜索旋转排序数组 ii](./src/0081.search-in-rotated-sorted-array-ii/README.md)|中等|[python](./src/0081.search-in-rotated-sorted-array-ii/0081.search-in-rotated-sorted-array-ii.py)|`数组` `二分查找`|
+|0082|[删除排序链表中的重复元素 ii](./src/0082.remove-duplicates-from-sorted-list-ii/README.md)|中等|[python](./src/0082.remove-duplicates-from-sorted-list-ii/0082.remove-duplicates-from-sorted-list-ii.py)|`链表`|
+|0083|[删除排序链表中的重复元素](./src/0083.remove-duplicates-from-sorted-list/README.md)|简单|[python](./src/0083.remove-duplicates-from-sorted-list/0083.remove-duplicates-from-sorted-list.py)|`链表`|
+|0087|[扰乱字符串](./src/0087.scramble-string/README.md)|困难|[python](./src/0087.scramble-string/0087.scramble-string.py)|`字符串` `动态规划`|
+|0088|[合并两个有序数组](./src/0088.merge-sorted-array/README.md)|简单|[python](./src/0088.merge-sorted-array/0088.merge-sorted-array.py)|`数组` `双指针`|
+|0090|[子集 ii](./src/0090.subsets-ii/README.md)|中等|[python](./src/0090.subsets-ii/0090.subsets-ii.py)|`数组` `回溯算法`|
+|0091|[解码方法](./src/0091.decode-ways/README.md)|中等|[python](./src/0091.decode-ways/0091.decode-ways.py)|`字符串` `动态规划`|
+|0092|[反转链表 ii](./src/0092.reverse-linked-list-ii/README.md)|中等|[python](./src/0092.reverse-linked-list-ii/0092.reverse-linked-list-ii.py)|`链表`|
+|0115|[不同的子序列](./src/0115.distinct-subsequences/README.md)|困难|[python](./src/0115.distinct-subsequences/0115.distinct-subsequences.py)|`字符串` `动态规划`|
+|0131|[分割回文串](./src/0131.palindrome-partitioning/README.md)|中等|[python](./src/0131.palindrome-partitioning/0131.palindrome-partitioning.py)|`深度优先搜索` `动态规划` `回溯算法`|
+|0132|[分割回文串 ii](./src/0132.palindrome-partitioning-ii/README.md)|困难|*[python](./src/0132.palindrome-partitioning-ii/0132.palindrome-partitioning-ii.py)*|`动态规划`|
+|0137|[只出现一次的数字 ii](./src/0137.single-number-ii/README.md)|中等|[python](./src/0137.single-number-ii/0137.single-number-ii.py)|`位运算`|
+|0150|[逆波兰表达式求值](./src/0150.evaluate-reverse-polish-notation/README.md)|中等|[python](./src/0150.evaluate-reverse-polish-notation/0150.evaluate-reverse-polish-notation.py)|`栈`|
+|0153|[寻找旋转排序数组中的最小值](./src/0153.find-minimum-in-rotated-sorted-array/README.md)|中等|[python](./src/0153.find-minimum-in-rotated-sorted-array/0153.find-minimum-in-rotated-sorted-array.py)|`数组` `二分查找`|
+|0154|[寻找旋转排序数组中的最小值 ii](./src/0154.find-minimum-in-rotated-sorted-array-ii/README.md)|困难|[python](./src/0154.find-minimum-in-rotated-sorted-array-ii/0154.find-minimum-in-rotated-sorted-array-ii.py)|`数组` `二分查找`|
+|0173|[二叉搜索树迭代器](./src/0173.binary-search-tree-iterator/README.md)|中等|[python](./src/0173.binary-search-tree-iterator/0173.binary-search-tree-iterator.py)|`栈` `树` `设计`|
+|0179|[最大数](./src/0179.largest-number/README.md)|中等|[python](./src/0179.largest-number/0179.largest-number.py)|`排序`|
+|0190|[颠倒二进制位](./src/0190.reverse-bits/README.md)|简单|[python](./src/0190.reverse-bits/0190.reverse-bits.py)|`位运算`|
+|0191|[位1的个数](./src/0191.number-of-1-bits/README.md)|简单|[python](./src/0191.number-of-1-bits/0191.number-of-1-bits.py)|`位运算`|
+|0208|[实现 trie (前缀树)](./src/0208.implement-trie-prefix-tree/README.md)|中等|[python](./src/0208.implement-trie-prefix-tree/0208.implement-trie-prefix-tree.py)|`设计` `字典树`|
+|0213|[打家劫舍 ii](./src/0213.house-robber-ii/README.md)|中等|[python](./src/0213.house-robber-ii/0213.house-robber-ii.py)|`动态规划`|
+|0220|[存在重复元素 iii](./src/0220.contains-duplicate-iii/README.md)|中等|[python](./src/0220.contains-duplicate-iii/0220.contains-duplicate-iii.py)|`排序` `ordered map`|
+|0224|[基本计算器](./src/0224.basic-calculator/README.md)|困难|[python](./src/0224.basic-calculator/0224.basic-calculator.py)|`栈` `数学`|
+|0227|[基本计算器 ii](./src/0227.basic-calculator-ii/README.md)|中等|[python](./src/0227.basic-calculator-ii/0227.basic-calculator-ii.py)|`栈` `字符串`|
+|0232|[用栈实现队列](./src/0232.implement-queue-using-stacks/README.md)|简单|[python](./src/0232.implement-queue-using-stacks/0232.implement-queue-using-stacks.py)|`栈` `设计`|
+|0236|[丑数](./src/0236.ugly-number/README.md)|简单|[python](./src/0236.ugly-number/0236.ugly-number.py)|`数字`|
+|0264|[丑数 ii](./src/0264.ugly-number-ii/README.md)|中等|[python](./src/0264.ugly-number-ii/0264.ugly-number-ii.py)|`堆` `数字` `动态规划`|
+|0331|[验证二叉树的前序序列化](./src/0331.verify-preorder-serialization-of-a-binary-tree/README.md)|中等|[python](./src/0331.verify-preorder-serialization-of-a-binary-tree/0331.verify-preorder-serialization-of-a-binary-tree.py)|`栈`|
+|0341|[扁平化嵌套列表迭代器](./src/0341.flatten-nested-list-iterator/README.md)|中等|[python](./src/0341.flatten-nested-list-iterator/0341.flatten-nested-list-iterator.py)|`栈` `设计`|
+|0368|[最大整除子集](./src/0368.largest-divisible-subset/README.md)|中等|[python](./src/0368.largest-divisible-subset/0368.largest-divisible-subset.py)|`数字` `动态规划`|
+|0403|[青蛙过河](./src/0403.frog-jump/README.md)|困难|[python](./src/0403.frog-jump/0403.frog-jump.py)|`动态规划`|
+|0421|[数组中两个数的最大异或值](./src/0421.maximum-xor-of-two-numbers-in-an-array/README.md)|中等|[python](./src/0421.maximum-xor-of-two-numbers-in-an-array/0421.maximum-xor-of-two-numbers-in-an-array.py)|`位运算` `字典树`|
+|0456|[132模式](./src/0456.132-pattern/README.md)|中等|[python](./src/0456.132-pattern/0456.132-pattern.py)|`栈`|
+|0461|[汉明距离](./src/0461.hamming-distance/README.md)|简单|[python](./src/0461.hamming-distance/0461.hamming-distance.py)|`位运算`|
+|0477|[汉明距离总和](./src/0477.total-hamming-distance/README.md)|中等|[python](./src/0477.total-hamming-distance/0477.total-hamming-distance.py)|`位运算`|
+|0503|[下一个更大元素 ii](./src/0503.next-greater-element-ii/README.md)|中等|[python](./src/0503.next-greater-element-ii/0503.next-greater-element-ii.py)|`栈`|
+|0554|[砖墙](./src/0554.brick-wall/README.md)|中等|[python](./src/0554.brick-wall/0554.brick-wall.py)|`哈希表`|
+|0633|[平方数之和](./src/0633.sum-of-square-numbers/README.md)|中等|[python](./src/0633.sum-of-square-numbers/0633.sum-of-square-numbers.py)|`数学`|
+|0690|[员工的重要性](./src/0690.employee-importance/README.md)|简单|[python](./src/0690.employee-importance/0690.employee-importance.py)|`深度优先搜索` `广度优先搜索` `哈希表`|
+|0692|[前k个高频单词](./src/0692.top-k-frequent-words/README.md)|中等|[python](./src/0692.top-k-frequent-words/0692.top-k-frequent-words.py)|`堆` `字典树` `哈希表`|
+|0705|[设计哈希集合](./src/0705.design-hashset/README.md)|简单|[python](./src/0705.design-hashset/0705.design-hashset.py)|`设计` `哈希表`|
+|0706|[设计哈希映射](./src/0706.design-hashmap/README.md)|简单|[python](./src/0706.design-hashmap/0706.design-hashmap.py)|`设计` `哈希表`|
+|0740|[删除并获得点数](./src/0740.delete-and-earn/README.md)|中等|[python](./src/0740.delete-and-earn/0740.delete-and-earn.py)|`动态规划`|
+|0781|[森林中的兔子](./src/0781.rabbits-in-forest/README.md)|中等|[python](./src/0781.rabbits-in-forest/0781.rabbits-in-forest.py)|`哈希表` `数字`|
+|0783|[二叉搜索树节点最小距离](./src/0783.minimum-distance-between-bst-nodes/README.md)|简单|[python](./src/0783.minimum-distance-between-bst-nodes/0783.minimum-distance-between-bst-nodes.py)|`树` `深度优先搜索` `递归`|
+|0810|[黑板异或游戏](./src/0810.chalkboard-xor-game/README.md)|困难|[python](./src/0810.chalkboard-xor-game/0810.chalkboard-xor-game.py)|`数学`|
+|0872|[叶子相似的树](./src/0872.leaf-similar-trees/README.md)|简单|[python](./src/0872.leaf-similar-trees/0872.leaf-similar-trees.py)|`树` `深度优先搜索`|
+|0897|[递增顺序搜索树](./src/0897.increasing-order-search-tree/README.md)|简单|[python](./src/0897.increasing-order-search-tree/0897.increasing-order-search-tree.py)|`树` `深度优先搜索` `递归`|
+|0938|[二叉搜索树的范围和](./src/0938.range-sum-of-bst/README.md)|简单|[python](./src/0938.range-sum-of-bst/0938.range-sum-of-bst.py)|`树` `深度优先搜索` `递归`|
+|0993|[二叉树的堂兄弟节点](./src/0993.cousins-in-binary-tree/README.md)|简单|[python](./src/0993.cousins-in-binary-tree/0993.cousins-in-binary-tree.py)|`树` `广度优先搜索`|
+|1006|[笨阶乘](./src/1006.clumsy-factorial/README.md)|简单|[python](./src/1006.clumsy-factorial/1006.clumsy-factorial.py)|`数学`|
+|1011|[在 d 天内送达包裹的能力](./src/1011.capacity-to-ship-packages-within-d-days/README.md)|中等|[python](./src/1011.capacity-to-ship-packages-within-d-days/1011.capacity-to-ship-packages-within-d-days.py)|`数组` `二分查找`|
+|1035|[不相交的线](./src/1035.uncrossed-lines/README.md)|中等|[python](./src/1035.uncrossed-lines/1035.uncrossed-lines.py)|`数组`|
+|1047|[删除字符串中的所有相邻重复项](./src/1047.remove-all-adjacent-duplicates-in-string/README.md)|简单|[python](./src/1047.remove-all-adjacent-duplicates-in-string/1047.remove-all-adjacent-duplicates-in-string.py)|`栈`|
+|1143|[最长公共子序列](./src/1143.longest-common-subsequence/README.md)|中等|[python](./src/1143.longest-common-subsequence/1143.longest-common-subsequence.py)|`动态规划`|
+|1269|[停在原地的方案数](./src/1269.number-of-ways-to-stay-in-the-same-place-after-some-steps/README.md)|困难|[python](./src/1269.number-of-ways-to-stay-in-the-same-place-after-some-steps/1269.number-of-ways-to-stay-in-the-same-place-after-some-steps.py)|`动态规划`|
+|1310|[子数组异或查询](./src/1310.xor-queries-of-a-subarray/README.md)|中等|[python](./src/1310.xor-queries-of-a-subarray/1310.xor-queries-of-a-subarray.py)|`位运算`|
+|1482|[制作 m 束花所需的最少天数](./src/1482.minimum-number-of-days-to-make-m-bouquets/README.md)|中等|[python](./src/1482.minimum-number-of-days-to-make-m-bouquets/1482.minimum-number-of-days-to-make-m-bouquets.py)|`数组` `二分查找`|
+|1486|[数组异或操作](./src/1486.xor-operation-in-an-array/README.md)|简单|[python](./src/1486.xor-operation-in-an-array/1486.xor-operation-in-an-array.py)|`位运算` `数组`|
+|1603|[设计停车系统](./src/1603.design-parking-system/README.md)|简单|[python](./src/1603.design-parking-system/1603.design-parking-system.py)|`设计`|
+|1720|[解码异或后的数组](./src/1720.decode-xored-array/README.md)|简单|[python](./src/1720.decode-xored-array/1720.decode-xored-array.py)|`位运算`|
+|1734|[解码异或后的排列](./src/1734.decode-xored-permutation/README.md)|中等|[python](./src/1734.decode-xored-permutation/1734.decode-xored-permutation.py)|`位运算`|
+|1738|[找出第 k 大的异或坐标值](./src/1738.find-kth-largest-xor-coordinate-value/README.md)|中等|[python](./src/1738.find-kth-largest-xor-coordinate-value/1738.find-kth-largest-xor-coordinate-value.py)|`数组`|
+|面试题 17.21|[直方图的水量](./src/interview-question-17.21.volume-of-histogram-lcci/README.md)|困难|[python](./src/interview-question-17.21.volume-of-histogram-lcci/interview-question-17.21.volume-of-histogram-lcci.py)|`栈` `数组` `双指针`|

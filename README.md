@@ -76,6 +76,7 @@
 |1011|[在 d 天内送达包裹的能力](./src/1011.capacity-to-ship-packages-within-d-days/README.md)|中等|[python](./src/1011.capacity-to-ship-packages-within-d-days/1011.capacity-to-ship-packages-within-d-days.py)|`数组` `二分查找`|
 |1035|[不相交的线](./src/1035.uncrossed-lines/README.md)|中等|[python](./src/1035.uncrossed-lines/1035.uncrossed-lines.py)|`数组`|
 |1047|[删除字符串中的所有相邻重复项](./src/1047.remove-all-adjacent-duplicates-in-string/README.md)|简单|[python](./src/1047.remove-all-adjacent-duplicates-in-string/1047.remove-all-adjacent-duplicates-in-string.py)|`栈`|
+|1074|[元素和为目标值的子矩阵数量](./src/1074.number-of-submatrices-that-sum-to-target/README.md)|困难|[python](./src/1074.number-of-submatrices-that-sum-to-target/1074.number-of-submatrices-that-sum-to-target.py)|`数组` `动态规划` `Sliding Windows`|
 |1143|[最长公共子序列](./src/1143.longest-common-subsequence/README.md)|中等|[python](./src/1143.longest-common-subsequence/1143.longest-common-subsequence.py)|`动态规划`|
 |1269|[停在原地的方案数](./src/1269.number-of-ways-to-stay-in-the-same-place-after-some-steps/README.md)|困难|[python](./src/1269.number-of-ways-to-stay-in-the-same-place-after-some-steps/1269.number-of-ways-to-stay-in-the-same-place-after-some-steps.py)|`动态规划`|
 |1310|[子数组异或查询](./src/1310.xor-queries-of-a-subarray/README.md)|中等|[python](./src/1310.xor-queries-of-a-subarray/1310.xor-queries-of-a-subarray.py)|`位运算`|

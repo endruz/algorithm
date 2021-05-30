@@ -46,6 +46,7 @@
 |0220|[存在重复元素 iii](./src/0220.contains-duplicate-iii/README.md)|中等|[python](./src/0220.contains-duplicate-iii/0220.contains-duplicate-iii.py)|`排序` `ordered map`|
 |0224|[基本计算器](./src/0224.basic-calculator/README.md)|困难|[python](./src/0224.basic-calculator/0224.basic-calculator.py)|`栈` `数学`|
 |0227|[基本计算器 ii](./src/0227.basic-calculator-ii/README.md)|中等|[python](./src/0227.basic-calculator-ii/0227.basic-calculator-ii.py)|`栈` `字符串`|
+|0231|[2 的幂](./src/0231.power-of-two/README.md)|简单|[python](./src/0231.power-of-two/0231.power-of-two.py)|`位运算` `数学`|
 |0232|[用栈实现队列](./src/0232.implement-queue-using-stacks/README.md)|简单|[python](./src/0232.implement-queue-using-stacks/0232.implement-queue-using-stacks.py)|`栈` `设计`|
 |0236|[丑数](./src/0236.ugly-number/README.md)|简单|[python](./src/0236.ugly-number/0236.ugly-number.py)|`数字`|
 |0264|[丑数 ii](./src/0264.ugly-number-ii/README.md)|中等|[python](./src/0264.ugly-number-ii/0264.ugly-number-ii.py)|`堆` `数字` `动态规划`|

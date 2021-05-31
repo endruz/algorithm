@@ -52,6 +52,7 @@
 |0264|[丑数 ii](./src/0264.ugly-number-ii/README.md)|中等|[python](./src/0264.ugly-number-ii/0264.ugly-number-ii.py)|`堆` `数字` `动态规划`|
 |0331|[验证二叉树的前序序列化](./src/0331.verify-preorder-serialization-of-a-binary-tree/README.md)|中等|[python](./src/0331.verify-preorder-serialization-of-a-binary-tree/0331.verify-preorder-serialization-of-a-binary-tree.py)|`栈`|
 |0341|[扁平化嵌套列表迭代器](./src/0341.flatten-nested-list-iterator/README.md)|中等|[python](./src/0341.flatten-nested-list-iterator/0341.flatten-nested-list-iterator.py)|`栈` `设计`|
+|0342|[4的幂](./src/0342.power-of-four/README.md)|简单|[python](./src/0342.power-of-four/0342.power-of-four.py)|`位运算`|
 |0368|[最大整除子集](./src/0368.largest-divisible-subset/README.md)|中等|[python](./src/0368.largest-divisible-subset/0368.largest-divisible-subset.py)|`数字` `动态规划`|
 |0403|[青蛙过河](./src/0403.frog-jump/README.md)|困难|[python](./src/0403.frog-jump/0403.frog-jump.py)|`动态规划`|
 |0421|[数组中两个数的最大异或值](./src/0421.maximum-xor-of-two-numbers-in-an-array/README.md)|中等|[python](./src/0421.maximum-xor-of-two-numbers-in-an-array/0421.maximum-xor-of-two-numbers-in-an-array.py)|`位运算` `字典树`|

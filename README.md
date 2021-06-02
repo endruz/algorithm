@@ -60,6 +60,7 @@
 |0461|[汉明距离](./src/0461.hamming-distance/README.md)|简单|[python](./src/0461.hamming-distance/0461.hamming-distance.py)|`位运算`|
 |0477|[汉明距离总和](./src/0477.total-hamming-distance/README.md)|中等|[python](./src/0477.total-hamming-distance/0477.total-hamming-distance.py)|`位运算`|
 |0503|[下一个更大元素 ii](./src/0503.next-greater-element-ii/README.md)|中等|[python](./src/0503.next-greater-element-ii/0503.next-greater-element-ii.py)|`栈`|
+|0523|[连续的子数组和](./src/0523.continuous-subarray-sum/README.md)|中等|[python](./src/0523.continuous-subarray-sum/0523.continuous-subarray-sum.py)|`数学` `动态规划`|
 |0554|[砖墙](./src/0554.brick-wall/README.md)|中等|[python](./src/0554.brick-wall/0554.brick-wall.py)|`哈希表`|
 |0560|[和为K的子数组](./src/0560.subarray-sum-equals-k/README.md)|中等|[python](./src/0560.subarray-sum-equals-k/0560.subarray-sum-equals-k.py)|`数组` `哈希表`|
 |0633|[平方数之和](./src/0633.sum-of-square-numbers/README.md)|中等|[python](./src/0633.sum-of-square-numbers/0633.sum-of-square-numbers.py)|`数学`|

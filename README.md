@@ -59,6 +59,7 @@
 |0456|[132模式](./src/0456.132-pattern/README.md)|中等|[python](./src/0456.132-pattern/0456.132-pattern.py)|`栈`|
 |0461|[汉明距离](./src/0461.hamming-distance/README.md)|简单|[python](./src/0461.hamming-distance/0461.hamming-distance.py)|`位运算`|
 |0477|[汉明距离总和](./src/0477.total-hamming-distance/README.md)|中等|[python](./src/0477.total-hamming-distance/0477.total-hamming-distance.py)|`位运算`|
+|0494|[目标和](./src/0494.target-sum/README.md)|中等|[python](./src/0494.target-sum/0494.target-sum.py)|`深度优先遍历` `动态规划`|
 |0503|[下一个更大元素 ii](./src/0503.next-greater-element-ii/README.md)|中等|[python](./src/0503.next-greater-element-ii/0503.next-greater-element-ii.py)|`栈`|
 |0523|[连续的子数组和](./src/0523.continuous-subarray-sum/README.md)|中等|[python](./src/0523.continuous-subarray-sum/0523.continuous-subarray-sum.py)|`数学` `动态规划`|
 |0554|[砖墙](./src/0554.brick-wall/README.md)|中等|[python](./src/0554.brick-wall/0554.brick-wall.py)|`哈希表`|

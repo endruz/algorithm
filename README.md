@@ -73,6 +73,7 @@
 |0781|[森林中的兔子](./src/0781.rabbits-in-forest/README.md)|中等|[python](./src/0781.rabbits-in-forest/0781.rabbits-in-forest.py)|`哈希表` `数字`|
 |0783|[二叉搜索树节点最小距离](./src/0783.minimum-distance-between-bst-nodes/README.md)|简单|[python](./src/0783.minimum-distance-between-bst-nodes/0783.minimum-distance-between-bst-nodes.py)|`树` `深度优先搜索` `递归`|
 |0810|[黑板异或游戏](./src/0810.chalkboard-xor-game/README.md)|困难|[python](./src/0810.chalkboard-xor-game/0810.chalkboard-xor-game.py)|`数学`|
+|0832|[山脉数组的峰顶索引](./src/0832.peak-index-in-a-mountain-array/README.md)|简单|[python](./src/0832.peak-index-in-a-mountain-array/0832.peak-index-in-a-mountain-array.py)|`二分查找`|
 |0872|[叶子相似的树](./src/0872.leaf-similar-trees/README.md)|简单|[python](./src/0872.leaf-similar-trees/0872.leaf-similar-trees.py)|`树` `深度优先搜索`|
 |0897|[递增顺序搜索树](./src/0897.increasing-order-search-tree/README.md)|简单|[python](./src/0897.increasing-order-search-tree/0897.increasing-order-search-tree.py)|`树` `深度优先搜索` `递归`|
 |0938|[二叉搜索树的范围和](./src/0938.range-sum-of-bst/README.md)|简单|[python](./src/0938.range-sum-of-bst/0938.range-sum-of-bst.py)|`树` `深度优先搜索` `递归`|

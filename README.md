@@ -19,6 +19,7 @@
 |0054|[螺旋矩阵](./src/0054.spiral-matrix/README.md)|中等|[python](./src/0054.spiral-matrix/0054.spiral-matrix.py)|`数组`|
 |0059|[螺旋矩阵 ii](./src/0059.spiral-matrix-ii/README.md)|中等|[python](./src/0059.spiral-matrix-ii/0059.spiral-matrix-ii.py)|`数组`|
 |0061|[旋转链表](./src/0061.rotate-list/README.md)|中等|[python](./src/0061.rotate-list/0061.rotate-list.py)|`链表` `双指针`|
+|0065|[有效数字](./src/0065.valid-number/README.md)|困难|[python](./src/0065.valid-number/0065.valid-number.py)|`数学` `字符串`|
 |0073|[矩阵置零](./src/0073.set-matrix-zeroes/README.md)|中等|[python](./src/0073.set-matrix-zeroes/0073.set-matrix-zeroes.py)|`数组`|
 |0074|[搜索二维矩阵](./src/0074.search-a-2d-matrix/README.md)|中等|[python](./src/0074.search-a-2d-matrix/0074.search-a-2d-matrix.py)|`数组` `二分查找`|
 |0080|[删除有序数组中的重复项 ii](./src/0080.remove-duplicates-from-sorted-array-ii/README.md)|中等|[python](./src/0080.remove-duplicates-from-sorted-array-ii/0080.remove-duplicates-from-sorted-array-ii.py)|`数组` `双指针`|

@@ -86,6 +86,7 @@
 |1047|[删除字符串中的所有相邻重复项](./src/1047.remove-all-adjacent-duplicates-in-string/README.md)|简单|[python](./src/1047.remove-all-adjacent-duplicates-in-string/1047.remove-all-adjacent-duplicates-in-string.py)|`栈`|
 |1074|[元素和为目标值的子矩阵数量](./src/1074.number-of-submatrices-that-sum-to-target/README.md)|困难|[python](./src/1074.number-of-submatrices-that-sum-to-target/1074.number-of-submatrices-that-sum-to-target.py)|`数组` `动态规划` `Sliding Windows`|
 |1143|[最长公共子序列](./src/1143.longest-common-subsequence/README.md)|中等|[python](./src/1143.longest-common-subsequence/1143.longest-common-subsequence.py)|`动态规划`|
+|1239|[串联字符串的最大长度](./src/1239.maximum-length-of-a-concatenated-string-with-unique-characters/README.md)|中等|[python](./src/1239.maximum-length-of-a-concatenated-string-with-unique-characters/1239.maximum-length-of-a-concatenated-string-with-unique-characters.py)|`位运算` `回溯算法`|
 |1269|[停在原地的方案数](./src/1269.number-of-ways-to-stay-in-the-same-place-after-some-steps/README.md)|困难|[python](./src/1269.number-of-ways-to-stay-in-the-same-place-after-some-steps/1269.number-of-ways-to-stay-in-the-same-place-after-some-steps.py)|`动态规划`|
 |1310|[子数组异或查询](./src/1310.xor-queries-of-a-subarray/README.md)|中等|[python](./src/1310.xor-queries-of-a-subarray/1310.xor-queries-of-a-subarray.py)|`位运算`|
 |1482|[制作 m 束花所需的最少天数](./src/1482.minimum-number-of-days-to-make-m-bouquets/README.md)|中等|[python](./src/1482.minimum-number-of-days-to-make-m-bouquets/1482.minimum-number-of-days-to-make-m-bouquets.py)|`数组` `二分查找`|

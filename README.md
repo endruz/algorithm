@@ -55,6 +55,7 @@
 |0341|[扁平化嵌套列表迭代器](./src/0341.flatten-nested-list-iterator/README.md)|中等|[python](./src/0341.flatten-nested-list-iterator/0341.flatten-nested-list-iterator.py)|`栈` `设计`|
 |0342|[4的幂](./src/0342.power-of-four/README.md)|简单|[python](./src/0342.power-of-four/0342.power-of-four.py)|`位运算`|
 |0368|[最大整除子集](./src/0368.largest-divisible-subset/README.md)|中等|[python](./src/0368.largest-divisible-subset/0368.largest-divisible-subset.py)|`数字` `动态规划`|
+|0401|[二进制手表](./src/0401.binary-watch/README.md)|简单|[python](./src/0401.binary-watch/0401.binary-watch.py)|`位运算` `回溯算法`|
 |0403|[青蛙过河](./src/0403.frog-jump/README.md)|困难|[python](./src/0403.frog-jump/0403.frog-jump.py)|`动态规划`|
 |0421|[数组中两个数的最大异或值](./src/0421.maximum-xor-of-two-numbers-in-an-array/README.md)|中等|[python](./src/0421.maximum-xor-of-two-numbers-in-an-array/0421.maximum-xor-of-two-numbers-in-an-array.py)|`位运算` `字典树`|
 |0456|[132模式](./src/0456.132-pattern/README.md)|中等|[python](./src/0456.132-pattern/0456.132-pattern.py)|`栈`|

@@ -97,3 +97,4 @@
 |1734|[解码异或后的排列](./src/1734.decode-xored-permutation/README.md)|中等|[python](./src/1734.decode-xored-permutation/1734.decode-xored-permutation.py)|`位运算`|
 |1738|[找出第 k 大的异或坐标值](./src/1738.find-kth-largest-xor-coordinate-value/README.md)|中等|[python](./src/1738.find-kth-largest-xor-coordinate-value/1738.find-kth-largest-xor-coordinate-value.py)|`数组`|
 |面试题 17.21|[直方图的水量](./src/interview-question-17.21.volume-of-histogram-lcci/README.md)|困难|[python](./src/interview-question-17.21.volume-of-histogram-lcci/interview-question-17.21.volume-of-histogram-lcci.py)|`栈` `数组` `双指针`|
+|剑指 Offer 38|[字符串的排列](./src/lcof38.zi-fu-chuan-de-pai-lie-lcof/README.md)|中等|[python](./src/lcof38.zi-fu-chuan-de-pai-lie-lcof/lcof38.zi-fu-chuan-de-pai-lie-lcof.py)|`回溯算法`|

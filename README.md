@@ -35,6 +35,7 @@
 |0131|[分割回文串](./src/0131.palindrome-partitioning/README.md)|中等|[python](./src/0131.palindrome-partitioning/0131.palindrome-partitioning.py)|`深度优先搜索` `动态规划` `回溯算法`|
 |0132|[分割回文串 ii](./src/0132.palindrome-partitioning-ii/README.md)|困难|*[python](./src/0132.palindrome-partitioning-ii/0132.palindrome-partitioning-ii.py)*|`动态规划`|
 |0137|[只出现一次的数字 ii](./src/0137.single-number-ii/README.md)|中等|[python](./src/0137.single-number-ii/0137.single-number-ii.py)|`位运算`|
+|0149|[直线上最多的点数](./src/0149.max-points-on-a-line/README.md)|困难|[python](./src/0149.max-points-on-a-line/0149.max-points-on-a-line.py)|`几何` `哈希表` `数学`|
 |0150|[逆波兰表达式求值](./src/0150.evaluate-reverse-polish-notation/README.md)|中等|[python](./src/0150.evaluate-reverse-polish-notation/0150.evaluate-reverse-polish-notation.py)|`栈`|
 |0153|[寻找旋转排序数组中的最小值](./src/0153.find-minimum-in-rotated-sorted-array/README.md)|中等|[python](./src/0153.find-minimum-in-rotated-sorted-array/0153.find-minimum-in-rotated-sorted-array.py)|`数组` `二分查找`|
 |0154|[寻找旋转排序数组中的最小值 ii](./src/0154.find-minimum-in-rotated-sorted-array-ii/README.md)|困难|[python](./src/0154.find-minimum-in-rotated-sorted-array-ii/0154.find-minimum-in-rotated-sorted-array-ii.py)|`数组` `二分查找`|

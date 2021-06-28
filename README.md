@@ -76,6 +76,7 @@
 |0781|[森林中的兔子](./src/0781.rabbits-in-forest/README.md)|中等|[python](./src/0781.rabbits-in-forest/0781.rabbits-in-forest.py)|`哈希表` `数字`|
 |0783|[二叉搜索树节点最小距离](./src/0783.minimum-distance-between-bst-nodes/README.md)|简单|[python](./src/0783.minimum-distance-between-bst-nodes/0783.minimum-distance-between-bst-nodes.py)|`树` `深度优先搜索` `递归`|
 |0810|[黑板异或游戏](./src/0810.chalkboard-xor-game/README.md)|困难|[python](./src/0810.chalkboard-xor-game/0810.chalkboard-xor-game.py)|`数学`|
+|0815|[公交路线](./src/0815.bus-routes/README.md)|困难|[python](./src/0815.bus-routes/0815.bus-routes.py)|`广度优先搜索` `数组` `哈希表`|
 |0832|[山脉数组的峰顶索引](./src/0832.peak-index-in-a-mountain-array/README.md)|简单|[python](./src/0832.peak-index-in-a-mountain-array/0832.peak-index-in-a-mountain-array.py)|`二分查找`|
 |0872|[叶子相似的树](./src/0872.leaf-similar-trees/README.md)|简单|[python](./src/0872.leaf-similar-trees/0872.leaf-similar-trees.py)|`树` `深度优先搜索`|
 |0877|[石子游戏](./src/0877.stone-game/README.md)|中等|[python](./src/0877.stone-game/0877.stone-game.py)|`极小化极大` `数学` `动态规划`|

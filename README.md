@@ -39,6 +39,7 @@
 |0150|[逆波兰表达式求值](./src/0150.evaluate-reverse-polish-notation/README.md)|中等|[python](./src/0150.evaluate-reverse-polish-notation/0150.evaluate-reverse-polish-notation.py)|`栈`|
 |0153|[寻找旋转排序数组中的最小值](./src/0153.find-minimum-in-rotated-sorted-array/README.md)|中等|[python](./src/0153.find-minimum-in-rotated-sorted-array/0153.find-minimum-in-rotated-sorted-array.py)|`数组` `二分查找`|
 |0154|[寻找旋转排序数组中的最小值 ii](./src/0154.find-minimum-in-rotated-sorted-array-ii/README.md)|困难|[python](./src/0154.find-minimum-in-rotated-sorted-array-ii/0154.find-minimum-in-rotated-sorted-array-ii.py)|`数组` `二分查找`|
+|0168|[Excel表列名称](./src/0168.excel-sheet-column-title/README.md)|简单|[python](./src/0168.excel-sheet-column-title/0168.excel-sheet-column-title.py)|`数学` `字符串`|
 |0173|[二叉搜索树迭代器](./src/0173.binary-search-tree-iterator/README.md)|中等|[python](./src/0173.binary-search-tree-iterator/0173.binary-search-tree-iterator.py)|`栈` `树` `设计`|
 |0179|[最大数](./src/0179.largest-number/README.md)|中等|[python](./src/0179.largest-number/0179.largest-number.py)|`排序`|
 |0190|[颠倒二进制位](./src/0190.reverse-bits/README.md)|简单|[python](./src/0190.reverse-bits/0190.reverse-bits.py)|`位运算`|

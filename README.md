@@ -103,3 +103,4 @@
 |剑指 Offer 15|[二进制中1的个数](./src/lcof15.er-jin-zhi-zhong-1de-ge-shu-lcof/README.md)|简单|[python](./src/lcof15.er-jin-zhi-zhong-1de-ge-shu-lcof/lcof15.er-jin-zhi-zhong-1de-ge-shu-lcof.py)|`位运算`|
 |剑指 Offer 37|[序列化二叉树](./src/lcof37.xu-lie-hua-er-cha-shu-lcof/README.md)|困难|[python](./src/lcof37.xu-lie-hua-er-cha-shu-lcof/lcof37.xu-lie-hua-er-cha-shu-lcof.py)|`树` `深度优先搜索` `广度优先搜索` `设计` `字符串` `二叉树`|
 |剑指 Offer 38|[字符串的排列](./src/lcof38.zi-fu-chuan-de-pai-lie-lcof/README.md)|中等|[python](./src/lcof38.zi-fu-chuan-de-pai-lie-lcof/lcof38.zi-fu-chuan-de-pai-lie-lcof.py)|`回溯算法`|
+|LCP 07|[传递信息](./src/lcp07.chuan-di-xin-xi/README.md)|简单|[python](./src/lcp07.chuan-di-xin-xi/lcp07.chuan-di-xin-xi.py)|`深度优先搜索` `广度优先搜索` `图` `动态规划`|

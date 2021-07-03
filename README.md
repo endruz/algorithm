@@ -60,6 +60,7 @@
 |0401|[二进制手表](./src/0401.binary-watch/README.md)|简单|[python](./src/0401.binary-watch/0401.binary-watch.py)|`位运算` `回溯算法`|
 |0403|[青蛙过河](./src/0403.frog-jump/README.md)|困难|[python](./src/0403.frog-jump/0403.frog-jump.py)|`动态规划`|
 |0421|[数组中两个数的最大异或值](./src/0421.maximum-xor-of-two-numbers-in-an-array/README.md)|中等|[python](./src/0421.maximum-xor-of-two-numbers-in-an-array/0421.maximum-xor-of-two-numbers-in-an-array.py)|`位运算` `字典树`|
+|0451|[根据字符出现频率排序](./src/0451.sort-characters-by-frequency/README.md)|中等|[python](./src/0451.sort-characters-by-frequency/0451.sort-characters-by-frequency.py)|`哈希表` `字符串` `桶排序` `计数` `排序` `堆（优先队列）`|
 |0456|[132模式](./src/0456.132-pattern/README.md)|中等|[python](./src/0456.132-pattern/0456.132-pattern.py)|`栈`|
 |0461|[汉明距离](./src/0461.hamming-distance/README.md)|简单|[python](./src/0461.hamming-distance/0461.hamming-distance.py)|`位运算`|
 |0477|[汉明距离总和](./src/0477.total-hamming-distance/README.md)|中等|[python](./src/0477.total-hamming-distance/0477.total-hamming-distance.py)|`位运算`|

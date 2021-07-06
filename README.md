@@ -95,6 +95,7 @@
 |1239|[串联字符串的最大长度](./src/1239.maximum-length-of-a-concatenated-string-with-unique-characters/README.md)|中等|[python](./src/1239.maximum-length-of-a-concatenated-string-with-unique-characters/1239.maximum-length-of-a-concatenated-string-with-unique-characters.py)|`位运算` `回溯算法`|
 |1269|[停在原地的方案数](./src/1269.number-of-ways-to-stay-in-the-same-place-after-some-steps/README.md)|困难|[python](./src/1269.number-of-ways-to-stay-in-the-same-place-after-some-steps/1269.number-of-ways-to-stay-in-the-same-place-after-some-steps.py)|`动态规划`|
 |1310|[子数组异或查询](./src/1310.xor-queries-of-a-subarray/README.md)|中等|[python](./src/1310.xor-queries-of-a-subarray/1310.xor-queries-of-a-subarray.py)|`位运算`|
+|1418|[点菜展示表](./src/1418.display-table-of-food-orders-in-a-restaurant/README.md)|中等|[python](./src/1418.display-table-of-food-orders-in-a-restaurant/1418.display-table-of-food-orders-in-a-restaurant.py)|`数组` `哈希表` `字符串` `有序列表` `排序`|
 |1482|[制作 m 束花所需的最少天数](./src/1482.minimum-number-of-days-to-make-m-bouquets/README.md)|中等|[python](./src/1482.minimum-number-of-days-to-make-m-bouquets/1482.minimum-number-of-days-to-make-m-bouquets.py)|`数组` `二分查找`|
 |1486|[数组异或操作](./src/1486.xor-operation-in-an-array/README.md)|简单|[python](./src/1486.xor-operation-in-an-array/1486.xor-operation-in-an-array.py)|`位运算` `数组`|
 |1603|[设计停车系统](./src/1603.design-parking-system/README.md)|简单|[python](./src/1603.design-parking-system/1603.design-parking-system.py)|`设计`|

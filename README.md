@@ -99,6 +99,7 @@
 |1482|[制作 m 束花所需的最少天数](./src/1482.minimum-number-of-days-to-make-m-bouquets/README.md)|中等|[python](./src/1482.minimum-number-of-days-to-make-m-bouquets/1482.minimum-number-of-days-to-make-m-bouquets.py)|`数组` `二分查找`|
 |1486|[数组异或操作](./src/1486.xor-operation-in-an-array/README.md)|简单|[python](./src/1486.xor-operation-in-an-array/1486.xor-operation-in-an-array.py)|`位运算` `数组`|
 |1603|[设计停车系统](./src/1603.design-parking-system/README.md)|简单|[python](./src/1603.design-parking-system/1603.design-parking-system.py)|`设计`|
+|1711|[大餐计数](./src/1711.count-good-meals/README.md)|中等|[python](./src/1711.count-good-meals/1711.count-good-meals.py)|`数组` `哈希表`|
 |1720|[解码异或后的数组](./src/1720.decode-xored-array/README.md)|简单|[python](./src/1720.decode-xored-array/1720.decode-xored-array.py)|`位运算`|
 |1734|[解码异或后的排列](./src/1734.decode-xored-permutation/README.md)|中等|[python](./src/1734.decode-xored-permutation/1734.decode-xored-permutation.py)|`位运算`|
 |1738|[找出第 k 大的异或坐标值](./src/1738.find-kth-largest-xor-coordinate-value/README.md)|中等|[python](./src/1738.find-kth-largest-xor-coordinate-value/1738.find-kth-largest-xor-coordinate-value.py)|`数组`|

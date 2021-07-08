@@ -84,6 +84,7 @@
 |0872|[叶子相似的树](./src/0872.leaf-similar-trees/README.md)|简单|[python](./src/0872.leaf-similar-trees/0872.leaf-similar-trees.py)|`树` `深度优先搜索`|
 |0877|[石子游戏](./src/0877.stone-game/README.md)|中等|[python](./src/0877.stone-game/0877.stone-game.py)|`极小化极大` `数学` `动态规划`|
 |0897|[递增顺序搜索树](./src/0897.increasing-order-search-tree/README.md)|简单|[python](./src/0897.increasing-order-search-tree/0897.increasing-order-search-tree.py)|`树` `深度优先搜索` `递归`|
+|0930|[和相同的二元子数组](./src/0930.binary-subarrays-with-sum/README.md)|中等|[python](./src/0930.binary-subarrays-with-sum/0930.binary-subarrays-with-sum.py)|`数组` `哈希表` `前缀和` `滑动窗口`|
 |0938|[二叉搜索树的范围和](./src/0938.range-sum-of-bst/README.md)|简单|[python](./src/0938.range-sum-of-bst/0938.range-sum-of-bst.py)|`树` `深度优先搜索` `递归`|
 |0993|[二叉树的堂兄弟节点](./src/0993.cousins-in-binary-tree/README.md)|简单|[python](./src/0993.cousins-in-binary-tree/0993.cousins-in-binary-tree.py)|`树` `广度优先搜索`|
 |1006|[笨阶乘](./src/1006.clumsy-factorial/README.md)|简单|[python](./src/1006.clumsy-factorial/1006.clumsy-factorial.py)|`数学`|

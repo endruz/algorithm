@@ -46,6 +46,7 @@
 |0191|[位1的个数](./src/0191.number-of-1-bits/README.md)|简单|[python](./src/0191.number-of-1-bits/0191.number-of-1-bits.py)|`位运算`|
 |0208|[实现 trie (前缀树)](./src/0208.implement-trie-prefix-tree/README.md)|中等|[python](./src/0208.implement-trie-prefix-tree/0208.implement-trie-prefix-tree.py)|`设计` `字典树`|
 |0213|[打家劫舍 II](./src/0213.house-robber-ii/README.md)|中等|[python](./src/0213.house-robber-ii/0213.house-robber-ii.py)|`动态规划`|
+|0218|[天际线问题](./src/0218.the-skyline-problem/README.md)|困难|[python](./src/0218.the-skyline-problem/0218.the-skyline-problem.py)|`树状数组` `线段树` `数组` `分治` `有序集合` `扫描线` `堆（优先队列）`|
 |0220|[存在重复元素 III](./src/0220.contains-duplicate-iii/README.md)|中等|[python](./src/0220.contains-duplicate-iii/0220.contains-duplicate-iii.py)|`排序` `ordered map`|
 |0224|[基本计算器](./src/0224.basic-calculator/README.md)|困难|[python](./src/0224.basic-calculator/0224.basic-calculator.py)|`栈` `数学`|
 |0227|[基本计算器 II](./src/0227.basic-calculator-ii/README.md)|中等|[python](./src/0227.basic-calculator-ii/0227.basic-calculator-ii.py)|`栈` `字符串`|

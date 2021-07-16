@@ -57,6 +57,7 @@
 |0264|[丑数 II](./src/0264.ugly-number-ii/README.md)|中等|[python](./src/0264.ugly-number-ii/0264.ugly-number-ii.py)|`堆` `数字` `动态规划`|
 |0274|[H 指数](./src/0274.h-index/README.md)|中等|[python](./src/0274.h-index/0274.h-index.py)|`数组` `计数排序` `排序`|
 |0275|[H 指数 II](./src/0275.h-index-ii/README.md)|中等|[python](./src/0275.h-index-ii/0275.h-index-ii.py)|`数组` `二分查找`|
+|0297|[二叉树的序列化与反序列化](./src/0297.serialize-and-deserialize-binary-tree/README.md)|困难|[python](./src/0297.serialize-and-deserialize-binary-tree/0297.serialize-and-deserialize-binary-tree.py)|`树` `深度优先搜索` `广度优先搜索` `设计` `字符串` `二叉树`|
 |0331|[验证二叉树的前序序列化](./src/0331.verify-preorder-serialization-of-a-binary-tree/README.md)|中等|[python](./src/0331.verify-preorder-serialization-of-a-binary-tree/0331.verify-preorder-serialization-of-a-binary-tree.py)|`栈`|
 |0341|[扁平化嵌套列表迭代器](./src/0341.flatten-nested-list-iterator/README.md)|中等|[python](./src/0341.flatten-nested-list-iterator/0341.flatten-nested-list-iterator.py)|`栈` `设计`|
 |0342|[4的幂](./src/0342.power-of-four/README.md)|简单|[python](./src/0342.power-of-four/0342.power-of-four.py)|`位运算`|

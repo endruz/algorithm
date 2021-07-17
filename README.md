@@ -17,6 +17,7 @@
 |0028|[实现 strstr()](./src/0028.implement-strstr/README.md)|简单|[python](./src/0028.implement-strstr/0028.implement-strstr.py)|`双指针` `字符串`|
 |0034|[在排序数组中查找元素的第一个和最后一个位置](./src/0034.find-first-and-last-position-of-element-in-sorted-array/README.md)|中等|[python](./src/0034.find-first-and-last-position-of-element-in-sorted-array/0034.find-first-and-last-position-of-element-in-sorted-array.py)|`数组` `二分查找`|
 |0038|[外观数列](./src/0038.count-and-say/README.md)|简单|[python](./src/0038.count-and-say/0038.count-and-say.py)|`字符串`|
+|0053|[最大子序和](./src/0053.maximum-subarray/README.md)|简单|[python](./src/0053.maximum-subarray/0053.maximum-subarray.py)|`数组` `分治` `动态规划`|
 |0054|[螺旋矩阵](./src/0054.spiral-matrix/README.md)|中等|[python](./src/0054.spiral-matrix/0054.spiral-matrix.py)|`数组`|
 |0059|[螺旋矩阵 II](./src/0059.spiral-matrix-ii/README.md)|中等|[python](./src/0059.spiral-matrix-ii/0059.spiral-matrix-ii.py)|`数组`|
 |0061|[旋转链表](./src/0061.rotate-list/README.md)|中等|[python](./src/0061.rotate-list/0061.rotate-list.py)|`链表` `双指针`|

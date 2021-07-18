@@ -112,6 +112,7 @@
 |1738|[找出第 k 大的异或坐标值](./src/1738.find-kth-largest-xor-coordinate-value/README.md)|中等|[python](./src/1738.find-kth-largest-xor-coordinate-value/1738.find-kth-largest-xor-coordinate-value.py)|`数组`|
 |1833|[雪糕的最大数量](./src/1833.maximum-ice-cream-bars/README.md)|中等|[python](./src/1833.maximum-ice-cream-bars/1833.maximum-ice-cream-bars.py)|`贪心` `数组` `排序`|
 |1846|[减小和重新排列数组后的最大元素](./src/1846.maximum-element-after-decreasing-and-rearranging/README.md)|中等|[python](./src/1846.maximum-element-after-decreasing-and-rearranging/1846.maximum-element-after-decreasing-and-rearranging.py)|`贪心` `数组` `排序`|
+|面试题 10.02|[变位词组](./src/lcci10.02.group-anagrams-lcci/README.md)|中等|[python](./src/lcci10.02.group-anagrams-lcci/lcci10.02.group-anagrams-lcci.py)|`哈希表` `字符串` `排序`|
 |面试题 17.10|[主要元素](./src/lcci17.10.find-majority-element-lcci/README.md)|简单|[python](./src/lcci17.10.find-majority-element-lcci/lcci17.10.find-majority-element-lcci.py)|`数组` `计数`|
 |面试题 17.21|[直方图的水量](./src/lcci17.21.volume-of-histogram-lcci/README.md)|困难|[python](./src/lcci17.21.volume-of-histogram-lcci/lcci17.21.volume-of-histogram-lcci.py)|`栈` `数组` `双指针`|
 |剑指 Offer 15|[二进制中1的个数](./src/lcof15.er-jin-zhi-zhong-1de-ge-shu-lcof/README.md)|简单|[python](./src/lcof15.er-jin-zhi-zhong-1de-ge-shu-lcof/lcof15.er-jin-zhi-zhong-1de-ge-shu-lcof.py)|`位运算`|

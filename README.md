@@ -115,6 +115,7 @@
 |1838|[最高频元素的频数](./src/1838.frequency-of-the-most-frequent-element/README.md)|中等|[python](./src/1838.frequency-of-the-most-frequent-element/1838.frequency-of-the-most-frequent-element.py)|`数组` `二分查找` `前缀和` `滑动窗口`|
 |1846|[减小和重新排列数组后的最大元素](./src/1846.maximum-element-after-decreasing-and-rearranging/README.md)|中等|[python](./src/1846.maximum-element-after-decreasing-and-rearranging/1846.maximum-element-after-decreasing-and-rearranging.py)|`贪心` `数组` `排序`|
 |1877|[数组中最大数对和的最小值](./src/1877.minimize-maximum-pair-sum-in-array/README.md)|中等|[python](./src/1877.minimize-maximum-pair-sum-in-array/1877.minimize-maximum-pair-sum-in-array.py)|`贪心` `数组` `双指针` `排序`|
+|1893|[检查是否区域内所有整数都被覆盖](./src/1893.check-if-all-the-integers-in-a-range-are-covered/README.md)|简单|[python](./src/1893.check-if-all-the-integers-in-a-range-are-covered/1893.check-if-all-the-integers-in-a-range-are-covered.py)|`数组` `哈希表` `前缀和`|
 |面试题 10.02|[变位词组](./src/lcci10.02.group-anagrams-lcci/README.md)|中等|[python](./src/lcci10.02.group-anagrams-lcci/lcci10.02.group-anagrams-lcci.py)|`哈希表` `字符串` `排序`|
 |面试题 17.10|[主要元素](./src/lcci17.10.find-majority-element-lcci/README.md)|简单|[python](./src/lcci17.10.find-majority-element-lcci/lcci17.10.find-majority-element-lcci.py)|`数组` `计数`|
 |面试题 17.21|[直方图的水量](./src/lcci17.21.volume-of-histogram-lcci/README.md)|困难|[python](./src/lcci17.21.volume-of-histogram-lcci/lcci17.21.volume-of-histogram-lcci.py)|`栈` `数组` `双指针`|

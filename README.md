@@ -110,6 +110,7 @@
 |1711|[大餐计数](./src/1711.count-good-meals/README.md)|中等|[python](./src/1711.count-good-meals/1711.count-good-meals.py)|`数组` `哈希表`|
 |1720|[解码异或后的数组](./src/1720.decode-xored-array/README.md)|简单|[python](./src/1720.decode-xored-array/1720.decode-xored-array.py)|`位运算`|
 |1734|[解码异或后的排列](./src/1734.decode-xored-permutation/README.md)|中等|[python](./src/1734.decode-xored-permutation/1734.decode-xored-permutation.py)|`位运算`|
+|1736|[替换隐藏数字得到的最晚时间](./src/1736.latest-time-by-replacing-hidden-digits/README.md)|简单|[python](./src/1736.latest-time-by-replacing-hidden-digits/1736.latest-time-by-replacing-hidden-digits.py)|`字符串`|
 |1738|[找出第 k 大的异或坐标值](./src/1738.find-kth-largest-xor-coordinate-value/README.md)|中等|[python](./src/1738.find-kth-largest-xor-coordinate-value/1738.find-kth-largest-xor-coordinate-value.py)|`数组`|
 |1833|[雪糕的最大数量](./src/1833.maximum-ice-cream-bars/README.md)|中等|[python](./src/1833.maximum-ice-cream-bars/1833.maximum-ice-cream-bars.py)|`贪心` `数组` `排序`|
 |1838|[最高频元素的频数](./src/1838.frequency-of-the-most-frequent-element/README.md)|中等|[python](./src/1838.frequency-of-the-most-frequent-element/1838.frequency-of-the-most-frequent-element.py)|`数组` `二分查找` `前缀和` `滑动窗口`|

@@ -1,6 +1,6 @@
 # [Advent Of Code 2023](https://adventofcode.com/2023)
 
-|  Day  | Event                                                                  | Code                                              |
+|  Day  | Event                                                                  | Solution                                          |
 | :---: | :--------------------------------------------------------------------- | :------------------------------------------------ |
 |   1   | [Trebuchet?!](https://adventofcode.com/2023/day/1)                     | [Part1](./Day1/d1p1.py),  [Part2](./Day1/d1p2.py) |
 |   2   | [Cube Conundrum](https://adventofcode.com/2023/day/2)                  | [Part1](./Day2/d2p1.py),  [Part2](./Day2/d2p2.py) |
@@ -10,7 +10,7 @@
 |   6   | [Wait For It](https://adventofcode.com/2023/day/6)                     | [Part1](./Day6/d6p1.py),  [Part2](./Day6/d6p2.py) |
 |   7   | [Camel Cards](https://adventofcode.com/2023/day/7)                     | [Part1](./Day7/d7p1.py),  [Part2](./Day7/d7p2.py) |
 |   8   | [Haunted Wasteland](https://adventofcode.com/2023/day/8)               | [Part1](./Day8/d8p1.py),  [Part2](./Day8/d8p2.py) |
-|   9   |                                                                        |                                                   |
+|   9   | [Mirage Maintenance](https://adventofcode.com/2023/day/9)              | [Part1](./Day9/d9p1.py),  [Part2](./Day9/d9p2.py) |
 |  10   |                                                                        |                                                   |
 |  11   |                                                                        |                                                   |
 |  12   |                                                                        |                                                   |

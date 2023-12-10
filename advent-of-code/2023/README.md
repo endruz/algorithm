@@ -11,7 +11,7 @@
 |   7   | [Camel Cards](https://adventofcode.com/2023/day/7)                     | [Part1](./Day7/d7p1.py),  [Part2](./Day7/d7p2.py) |
 |   8   | [Haunted Wasteland](https://adventofcode.com/2023/day/8)               | [Part1](./Day8/d8p1.py),  [Part2](./Day8/d8p2.py) |
 |   9   | [Mirage Maintenance](https://adventofcode.com/2023/day/9)              | [Part1](./Day9/d9p1.py),  [Part2](./Day9/d9p2.py) |
-|  10   |                                                                        |                                                   |
+|  10   | [Pipe Maze](https://adventofcode.com/2023/day/10)                      | [Part1](./Day10/d10p1.py)                         |
 |  11   |                                                                        |                                                   |
 |  12   |                                                                        |                                                   |
 |  13   |                                                                        |                                                   |

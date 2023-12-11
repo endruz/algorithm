@@ -1,6 +1,6 @@
 # [Advent Of Code 2023](https://adventofcode.com/2023)
 
-|  Day  | Event                                                                  | Solution                                          |
+|  Day  | Puzzle                                                                 | Solution                                          |
 | :---: | :--------------------------------------------------------------------- | :------------------------------------------------ |
 |   1   | [Trebuchet?!](https://adventofcode.com/2023/day/1)                     | [Part1](./Day1/d1p1.py),  [Part2](./Day1/d1p2.py) |
 |   2   | [Cube Conundrum](https://adventofcode.com/2023/day/2)                  | [Part1](./Day2/d2p1.py),  [Part2](./Day2/d2p2.py) |

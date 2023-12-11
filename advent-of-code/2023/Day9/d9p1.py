@@ -1,7 +1,10 @@
-# https://adventofcode.com/2023/day/9
+# Puzzle: https://adventofcode.com/2023/day/9
+# Input: https://adventofcode.com/2023/day/9/input
 # --- Part One ---
 
 result = 0
+
+
 def get_next_value(nums: list[int]):
     nums_list = [nums]
     while not all([num == 0 for num in nums_list[-1]]):
@@ -24,4 +27,3 @@ with open("./puzzle_input.txt", "r") as f:
         result += next_value
 
 print(result)
-

@@ -1,4 +1,5 @@
-# https://adventofcode.com/2023/day/6
+# Puzzle: https://adventofcode.com/2023/day/6
+# Input: https://adventofcode.com/2023/day/6/input
 # --- Part One ---
 
 with open("./puzzle_input.txt", "r") as f:

@@ -1,4 +1,5 @@
-# https://adventofcode.com/2023/day/2
+# Puzzle: https://adventofcode.com/2023/day/2
+# Input: https://adventofcode.com/2023/day/2/input
 # --- Part One ---
 
 result = 0

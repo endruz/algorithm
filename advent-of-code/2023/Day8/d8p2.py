@@ -1,4 +1,5 @@
-# https://adventofcode.com/2023/day/8
+# Puzzle: https://adventofcode.com/2023/day/8
+# Input: https://adventofcode.com/2023/day/8/input
 # --- Part Two ---
 
 import re

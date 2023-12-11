@@ -1,4 +1,5 @@
-# https://adventofcode.com/2023/day/7
+# Puzzle: https://adventofcode.com/2023/day/7
+# Input: https://adventofcode.com/2023/day/7/input
 # --- Part One ---
 
 from collections import Counter

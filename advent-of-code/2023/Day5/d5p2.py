@@ -1,4 +1,5 @@
-# https://adventofcode.com/2023/day/5
+# Puzzle: https://adventofcode.com/2023/day/5
+# Input: https://adventofcode.com/2023/day/5/input
 # --- Part Two ---
 
 source_to_destination_list: list[list] = [[] for _ in range(7)]

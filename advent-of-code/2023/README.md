@@ -14,7 +14,7 @@
 |  10   | [Pipe Maze](https://adventofcode.com/2023/day/10)                      | [Part1](./Day10/d10p1.py)                            |
 |  11   | [Cosmic Expansion](https://adventofcode.com/2023/day/11)               | [Part1](./Day11/d11p1.py), [Part2](./Day11/d11p2.py) |
 |  12   | [Hot Springs](https://adventofcode.com/2023/day/12)                    | [Part1](./Day12/d12p1.py), [Part2](./Day12/d12p2.py) |
-|  13   |                                                                        |                                                      |
+|  13   | [Point of Incidence](https://adventofcode.com/2023/day/13)             | [Part1](./Day13/d13p1.py), [Part2](./Day13/d13p2.py) |
 |  14   |                                                                        |                                                      |
 |  15   |                                                                        |                                                      |
 |  16   |                                                                        |                                                      |

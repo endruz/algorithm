@@ -1,9 +1,9 @@
 # Puzzle: https://adventofcode.com/2023/day/10
 # Input: https://adventofcode.com/2023/day/10/input
-# --- Part One ---
+# --- Part Two ---
 
 with open("./puzzle_input.txt", "r") as f:
-    grid = [line.strip() for line in f.readlines()]
+    grid = [list(line.strip()) for line in f.readlines()]
 
 hight, weight = len(grid), len(grid[0])
 distance_grid = [[float("inf")] * weight for _ in range(hight)]
@@ -11,8 +11,9 @@ distance_grid = [[float("inf")] * weight for _ in range(hight)]
 
 def get_starting_position(grid):
     for i, row in enumerate(grid):
-        if (j := row.find("S")) != -1:
-            return (i, j)
+        if "S" in row:
+            return (i, row.index("S"))
+
 
 
 def take_one_step(i: int, j: int, come_from: str, step_count: int):
@@ -46,9 +47,35 @@ for args in [
     while args is not None:
         args = take_one_step(*args)
 
-for row in distance_grid:
-    for distances in row:
-        if distances != float("inf"):
-            result = max(distances, result)
+# replace S
+options = []
+if distance_grid[start_i - 1][start_j] == 1:
+    options.append({"|", "L", "J"})
+if distance_grid[start_i + 1][start_j] == 1:
+    options.append({"|", "7", "F"})
+if distance_grid[start_i][start_j - 1] == 1:
+    options.append({"-", "7", "J"})
+if distance_grid[start_i][start_j + 1] == 1:
+    options.append({"-", "F", "L"})
 
+grid[start_i][start_j] = (options[0] & options[1]).pop()
+
+result = 0
+for i in range(hight):
+    j = 0
+    is_inside = False
+    while j < weight:
+        if distance_grid[i][j] == float("inf"):
+            result += is_inside
+        elif grid[i][j] == "|":
+            is_inside = not is_inside
+        else:
+            loop_enter_top = grid[i][j] == "L"
+            j += 1
+            while grid[i][j] == "-":
+                j += 1
+            loop_exit_top = grid[i][j] == "J"
+            if loop_enter_top != loop_exit_top:
+                is_inside = not is_inside
+        j += 1
 print(result)

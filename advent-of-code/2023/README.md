@@ -11,7 +11,7 @@
 |   7   | [Camel Cards](https://adventofcode.com/2023/day/7)                     | [Part1](./Day07/d7p1.py), [Part2](./Day07/d7p2.py)   |
 |   8   | [Haunted Wasteland](https://adventofcode.com/2023/day/8)               | [Part1](./Day08/d8p1.py), [Part2](./Day08/d8p2.py)   |
 |   9   | [Mirage Maintenance](https://adventofcode.com/2023/day/9)              | [Part1](./Day09/d9p1.py), [Part2](./Day09/d9p2.py)   |
-|  10   | [Pipe Maze](https://adventofcode.com/2023/day/10)                      | [Part1](./Day10/d10p1.py)                            |
+|  10   | [Pipe Maze](https://adventofcode.com/2023/day/10)                      | [Part1](./Day10/d10p1.py), [Part2](./Day10/d10p2.py) |
 |  11   | [Cosmic Expansion](https://adventofcode.com/2023/day/11)               | [Part1](./Day11/d11p1.py), [Part2](./Day11/d11p2.py) |
 |  12   | [Hot Springs](https://adventofcode.com/2023/day/12)                    | [Part1](./Day12/d12p1.py), [Part2](./Day12/d12p2.py) |
 |  13   | [Point of Incidence](https://adventofcode.com/2023/day/13)             | [Part1](./Day13/d13p1.py), [Part2](./Day13/d13p2.py) |

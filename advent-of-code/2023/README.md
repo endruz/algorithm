@@ -19,7 +19,7 @@
 |  15   | [Lens Library](https://adventofcode.com/2023/day/15)                   | [Part1](./Day15/d15p1.py), [Part2](./Day15/d15p2.py) |
 |  16   | [The Floor Will Be Lava](https://adventofcode.com/2023/day/16)         | [Part1](./Day16/d16p1.py), [Part2](./Day16/d16p2.py) |
 |  17   | [Clumsy Crucible](https://adventofcode.com/2023/day/17)                | [Part1](./Day17/d17p1.py), [Part2](./Day17/d17p2.py) |
-|  18   |                                                                        |                                                      |
+|  18   | [Lavaduct Lagoon](https://adventofcode.com/2023/day/18)                | [Part1](./Day18/d18p1.py)                            |
 |  19   |                                                                        |                                                      |
 |  20   |                                                                        |                                                      |
 |  21   |                                                                        |                                                      |

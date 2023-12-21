@@ -4,6 +4,7 @@
 
 |  Day | Puzzle                                                                 | Part 1 Solution              | Part 1 Time | Part 1 Rank | Part 1 Score | Part 2 Solution              | Part 2 Time | Part 2 Rank | Part 2 Score |
 | ---: | :--------------------------------------------------------------------- | :--------------------------- | ----------: | ----------: | -----------: | :--------------------------- | ----------: | ----------: | -----------: |
+|   21 | [Step Counter](https://adventofcode.com/2023/day/21)                   | [d21p1.py](./Day21/d21p1.py) |    00:20:08 |        2073 |            0 |                              |           - |           - |            - |
 |   20 | [Pulse Propagation](https://adventofcode.com/2023/day/20)              | [d20p1.py](./Day20/d20p1.py) |    02:24:46 |        3969 |            0 |                              |           - |           - |            - |
 |   19 | [Aplenty](https://adventofcode.com/2023/day/19)                        | [d19p1.py](./Day19/d19p1.py) |    01:14:07 |        4632 |            0 | [d19p2.py](./Day19/d19p2.py) |    02:39:56 |        3216 |            0 |
 |   18 | [Lavaduct Lagoon](https://adventofcode.com/2023/day/18)                | [d18p1.py](./Day18/d18p1.py) |    03:20:17 |        7227 |            0 |                              |           - |           - |            - |

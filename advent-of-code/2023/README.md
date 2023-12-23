@@ -4,6 +4,8 @@
 
 |  Day | Puzzle                                                                 | Part 1 Solution              | Part 1 Time | Part 1 Rank | Part 1 Score | Part 2 Solution              | Part 2 Time | Part 2 Rank | Part 2 Score |
 | ---: | :--------------------------------------------------------------------- | :--------------------------- | ----------: | ----------: | -----------: | :--------------------------- | ----------: | ----------: | -----------: |
+|   23 | [A Long Walk](https://adventofcode.com/2023/day/23)                    | [d23p1.py](./Day23/d23p1.py) |    01:03:27 |        2504 |            0 |                              |           - |           - |            - |
+|   22 | [Sand Slabs](https://adventofcode.com/2023/day/22)                     |                              |           - |           - |            - |                              |           - |           - |            - |
 |   21 | [Step Counter](https://adventofcode.com/2023/day/21)                   | [d21p1.py](./Day21/d21p1.py) |    00:20:08 |        2073 |            0 |                              |           - |           - |            - |
 |   20 | [Pulse Propagation](https://adventofcode.com/2023/day/20)              | [d20p1.py](./Day20/d20p1.py) |    02:24:46 |        3969 |            0 |                              |           - |           - |            - |
 |   19 | [Aplenty](https://adventofcode.com/2023/day/19)                        | [d19p1.py](./Day19/d19p1.py) |    01:14:07 |        4632 |            0 | [d19p2.py](./Day19/d19p2.py) |    02:39:56 |        3216 |            0 |
